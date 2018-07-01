@@ -1,2767 +1,479 @@
-#EXTM3U
-#EXTINF:-1,WWE US
-http://clientportal.link:80/live/Petko/123456/16572.ts
-#EXTINF:-1,Cinemax US
-http://clientportal.link:80/live/Petko/123456/13680.ts
-#EXTINF:-1,HBO HD US
-http://clientportal.link:80/live/Petko/123456/13685.ts
-#EXTINF:-1,HGTV US
-http://clientportal.link:80/live/Petko/123456/13835.ts
-#EXTINF:-1,Golf Channel US
-http://clientportal.link:80/live/Petko/123456/13687.ts
-#EXTINF:-1,MSNBC HD US
-http://clientportal.link:80/live/Petko/123456/16841.ts
-#EXTINF:-1,NHL Network US
-http://clientportal.link:80/live/Petko/123456/13688.ts
-#EXTINF:-1,Showtime US
-http://clientportal.link:80/live/Petko/123456/13666.ts
-#EXTINF:-1,Heroes & Icons US
-http://clientportal.link:80/live/Petko/123456/13668.ts
-#EXTINF:-1,Starz Edge US
-http://clientportal.link:80/live/Petko/123456/13677.ts
-#EXTINF:-1,Starz East US
-http://clientportal.link:80/live/Petko/123456/13678.ts
-#EXTINF:-1,Willow Cricket US
-http://clientportal.link:80/live/Petko/123456/13689.ts
-#EXTINF:-1,A&E HD US
-http://clientportal.link:80/live/Petko/123456/10350.ts
-#EXTINF:-1,Tennis Channel HD US
-http://clientportal.link:80/live/Petko/123456/18386.ts
-#EXTINF:-1,ABC HD US
-http://clientportal.link:80/live/Petko/123456/9026.ts
-#EXTINF:-1,AMC HD US
-http://clientportal.link:80/live/Petko/123456/13104.ts
-#EXTINF:-1,Bravo US
-http://clientportal.link:80/live/Petko/123456/10704.ts
-#EXTINF:-1,C-SPAN US
-http://clientportal.link:80/live/Petko/123456/10701.ts
-#EXTINF:-1,C-SPAN 2 US
-http://clientportal.link:80/live/Petko/123456/10702.ts
-#EXTINF:-1,C-SPAN 3 US
-http://clientportal.link:80/live/Petko/123456/10703.ts
-#EXTINF:-1,Cartoon Network US
-http://clientportal.link:80/live/Petko/123456/13103.ts
-#EXTINF:-1,CBS Sports Network HD US
-http://clientportal.link:80/live/Petko/123456/10347.ts
-#EXTINF:-1,CNBC US
-http://clientportal.link:80/live/Petko/123456/9028.ts
-#EXTINF:-1,CNN US
-http://clientportal.link:80/live/Petko/123456/9029.ts
-#EXTINF:-1,Comedy Central US
-http://clientportal.link:80/live/Petko/123456/13102.ts
-#EXTINF:-1,DIY Network HD US
-http://clientportal.link:80/live/Petko/123456/13101.ts
-#EXTINF:-1,E! HD US
-http://clientportal.link:80/live/Petko/123456/9021.ts
-#EXTINF:-1,ESPN HD US
-http://clientportal.link:80/live/Petko/123456/9023.ts
-#EXTINF:-1,ESPN 2 US
-http://clientportal.link:80/live/Petko/123456/9022.ts
-#EXTINF:-1,FOX News US
-http://clientportal.link:80/live/Petko/123456/13100.ts
-#EXTINF:-1,FOX Sports 1 US
-http://clientportal.link:80/live/Petko/123456/9031.ts
-#EXTINF:-1,FOX Sports 2 HD US
-http://clientportal.link:80/live/Petko/123456/9030.ts
-#EXTINF:-1,FX HD US
-http://clientportal.link:80/live/Petko/123456/13098.ts
-#EXTINF:-1,FXX HD US
-http://clientportal.link:80/live/Petko/123456/13097.ts
-#EXTINF:-1,Hallmark Channel HD US
-http://clientportal.link:80/live/Petko/123456/9025.ts
-#EXTINF:-1,HBO Family FHD US
-http://clientportal.link:80/live/Petko/123456/9017.ts
-#EXTINF:-1,HBO Signature US
-http://clientportal.link:80/live/Petko/123456/9016.ts
-#EXTINF:-1,Lifetime movies HD US
-http://clientportal.link:80/live/Petko/123456/9078.ts
-#EXTINF:-1,MLB Network US
-http://clientportal.link:80/live/Petko/123456/10699.ts
-#EXTINF:-1,NBA TV US
-http://clientportal.link:80/live/Petko/123456/9010.ts
-#EXTINF:-1,NBC US
-http://clientportal.link:80/live/Petko/123456/9009.ts
-#EXTINF:-1,NFL Network US
-http://clientportal.link:80/live/Petko/123456/9077.ts
-#EXTINF:-1,Nick US
-http://clientportal.link:80/live/Petko/123456/9012.ts
-#EXTINF:-1,Spike US
-http://clientportal.link:80/live/Petko/123456/13107.ts
-#EXTINF:-1,Syfy HD US
-http://clientportal.link:80/live/Petko/123456/13095.ts
-#EXTINF:-1,TBS US
-http://clientportal.link:80/live/Petko/123456/13106.ts
-#EXTINF:-1,USA Network HD US
-http://clientportal.link:80/live/Petko/123456/13105.ts
-#EXTINF:-1,VH1 Classic US
-http://clientportal.link:80/live/Petko/123456/12059.ts
-#EXTINF:-1,VH1 US
-http://clientportal.link:80/live/Petko/123456/12058.ts
-#EXTINF:-1,Animal Planet HD US
-http://clientportal.link:80/live/Petko/123456/12060.ts
-#EXTINF:-1,MTV Rocks US
-http://clientportal.link:80/live/Petko/123456/12062.ts
-#EXTINF:-1,Discovery Channel US
-http://clientportal.link:80/live/Petko/123456/15717.ts
-#EXTINF:-1,FOX 43 HD US
-http://clientportal.link:80/live/Petko/123456/15716.ts
-#EXTINF:-1,History HD US
-http://clientportal.link:80/live/Petko/123456/15712.ts
-#EXTINF:-1,National Geographic HD US
-http://clientportal.link:80/live/Petko/123456/15714.ts
-#EXTINF:-1,PBS US
-http://clientportal.link:80/live/Petko/123456/15715.ts
-#EXTINF:-1,FreeForm HD US
-http://clientportal.link:80/live/Petko/123456/14294.ts
-#EXTINF:-1,Oprah Winfrey Network US
-http://clientportal.link:80/live/Petko/123456/16295.ts
-#EXTINF:-1,NASA Live US
-http://clientportal.link:80/live/Petko/123456/16585.ts
-#EXTINF:-1,TNT US
-http://clientportal.link:80/live/Petko/123456/15366.ts
-#EXTINF:-1,Fuel TV US
-http://clientportal.link:80/live/Petko/123456/9484.ts
-#EXTINF:-1,The Weather Channel US
-http://clientportal.link:80/live/Petko/123456/17427.ts
-#EXTINF:-1,Fight Channel US
-http://clientportal.link:80/live/Petko/123456/17883.ts
-#EXTINF:-1,ActionMax FHD US
-http://clientportal.link:80/live/Petko/123456/18078.ts
-#EXTINF:-1,American Heroes Channel US
-http://clientportal.link:80/live/Petko/123456/18064.ts
-#EXTINF:-1,CBS HD US
-http://clientportal.link:80/live/Petko/123456/18075.ts
-#EXTINF:-1,Disney Junior US
-http://clientportal.link:80/live/Petko/123456/18065.ts
-#EXTINF:-1,El Rey Network FHD US
-http://clientportal.link:80/live/Petko/123456/18066.ts
-#EXTINF:-1,GSN FHD US
-http://clientportal.link:80/live/Petko/123456/18069.ts
-#EXTINF:-1,IFC FHD US
-http://clientportal.link:80/live/Petko/123456/18070.ts
-#EXTINF:-1,Investigation Discovery FHD US
-http://clientportal.link:80/live/Petko/123456/18071.ts
-#EXTINF:-1,Lifetime HD US
-http://clientportal.link:80/live/Petko/123456/18072.ts
-#EXTINF:-1,MTV HD US
-http://clientportal.link:80/live/Petko/123456/18076.ts
-#EXTINF:-1,Reelz HD US
-http://clientportal.link:80/live/Petko/123456/18074.ts
-#EXTINF:-1,TLC HD US
-http://clientportal.link:80/live/Petko/123456/18079.ts
-#EXTINF:-1,Velocity FHD US
-http://clientportal.link:80/live/Petko/123456/18073.ts
-#EXTINF:-1,Viceland FHD US
-http://clientportal.link:80/live/Petko/123456/18077.ts
-#EXTINF:-1,ABC News US
-http://clientportal.link:80/live/Petko/123456/18179.ts
-#EXTINF:-1,BBC America US
-http://clientportal.link:80/live/Petko/123456/18181.ts
-#EXTINF:-1,Big Ten Network US
-http://clientportal.link:80/live/Petko/123456/18182.ts
-#EXTINF:-1,Bloomberg TV US
-http://clientportal.link:80/live/Petko/123456/18183.ts
-#EXTINF:-1,CBSN HD US
-http://clientportal.link:80/live/Petko/123456/18184.ts
-#EXTINF:-1,Destination America HD US
-http://clientportal.link:80/live/Petko/123456/18189.ts
-#EXTINF:-1,ESPN U US
-http://clientportal.link:80/live/Petko/123456/18190.ts
-#EXTINF:-1,Food Network US
-http://clientportal.link:80/live/Petko/123456/18191.ts
-#EXTINF:-1,FXM HD US
-http://clientportal.link:80/live/Petko/123456/18166.ts
-#EXTINF:-1,Hallmark Movies & Mysteries HD US
-http://clientportal.link:80/live/Petko/123456/18198.ts
-#EXTINF:-1,HLN US
-http://clientportal.link:80/live/Petko/123456/18199.ts
-#EXTINF:-1,Oxygen HD US
-http://clientportal.link:80/live/Petko/123456/18176.ts
-#EXTINF:-1,Telemundo HD US
-http://clientportal.link:80/live/Petko/123456/18174.ts
-#EXTINF:-1,Travel Channel HD US
-http://clientportal.link:80/live/Petko/123456/18173.ts
-#EXTINF:-1,Tru TV US
-http://clientportal.link:80/live/Petko/123456/18172.ts
-#EXTINF:-1,TV Land HD US
-http://clientportal.link:80/live/Petko/123456/18171.ts
-#EXTINF:-1,UFC Fight Pass HD US
-http://clientportal.link:80/live/Petko/123456/18170.ts
-#EXTINF:-1,UniMás Este HD US
-http://clientportal.link:80/live/Petko/123456/18169.ts
-#EXTINF:-1,SEC Network HD US
-http://clientportal.link:80/live/Petko/123456/18175.ts
-#EXTINF:-1,NFL Red Zone HD US
-http://clientportal.link:80/live/Petko/123456/18849.ts
-#EXTINF:-1,Olympic Channel HD US
-http://clientportal.link:80/live/Petko/123456/18850.ts
-#EXTINF:-1,NBC SPORTS BOSTON HD US
-http://clientportal.link:80/live/Petko/123456/18853.ts
-#EXTINF:-1,PAC 12 Arizona HD US
-http://clientportal.link:80/live/Petko/123456/18854.ts
-#EXTINF:-1,PAC 12 BAY AREA HD US
-http://clientportal.link:80/live/Petko/123456/18855.ts
-#EXTINF:-1,PAC 12 LOS ANGELES HD US
-http://clientportal.link:80/live/Petko/123456/18856.ts
-#EXTINF:-1,PAC 12 NETWORKS HD US
-http://clientportal.link:80/live/Petko/123456/18857.ts
-#EXTINF:-1,PAC 12 MOUTAIN HD US
-http://clientportal.link:80/live/Petko/123456/18858.ts
-#EXTINF:-1,PAC 12 OREGON HD US
-http://clientportal.link:80/live/Petko/123456/18859.ts
-#EXTINF:-1,PAC 12 WASHINGTON HD US
-http://clientportal.link:80/live/Petko/123456/18860.ts
-#EXTINF:-1,Fox Soccer Plus HD US
-http://clientportal.link:80/live/Petko/123456/18675.ts
-#EXTINF:-1,AFN Movie HD US
-http://clientportal.link:80/live/Petko/123456/19604.ts
-#EXTINF:-1,AFN News HD US
-http://clientportal.link:80/live/Petko/123456/19603.ts
-#EXTINF:-1,AFN Prime Atlantic HD US
-http://clientportal.link:80/live/Petko/123456/19605.ts
-#EXTINF:-1,AFN Prime Pacific HD US
-http://clientportal.link:80/live/Petko/123456/19606.ts
-#EXTINF:-1,AFN Sports HD US
-http://clientportal.link:80/live/Petko/123456/19607.ts
-#EXTINF:-1,AFN Sports2 HD US
-http://clientportal.link:80/live/Petko/123456/19608.ts
-#EXTINF:-1,Fight Network US
-http://clientportal.link:80/live/Petko/123456/19654.ts
-#EXTINF:-1,ESPN News HD US
-http://clientportal.link:80/live/Petko/123456/19637.ts
-#EXTINF:-1,CP 24 CA
-http://clientportal.link:80/live/Petko/123456/19656.ts
-#EXTINF:-1,CBC Toronto CA
-http://clientportal.link:80/live/Petko/123456/19657.ts
-#EXTINF:-1,MLB Network HD US
-http://clientportal.link:80/live/Petko/123456/21298.ts
-
-#EXTINF:-1,A&E FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4960.ts
-#EXTINF:-1,A&E HD US
-http://mypanel.tv:8080/live/tm/tm2017/14399.ts
-#EXTINF:-1,ABC News US
-http://mypanel.tv:8080/live/tm/tm2017/6364.ts
-#EXTINF:-1,ABC US
-http://mypanel.tv:8080/live/tm/tm2017/4925.ts
-#EXTINF:-1,AFN Movie US
-http://mypanel.tv:8080/live/tm/tm2017/4931.ts
-#EXTINF:-1,AFN News US
-http://mypanel.tv:8080/live/tm/tm2017/4930.ts
-#EXTINF:-1,AFN Prime Atlantic US
-http://mypanel.tv:8080/live/tm/tm2017/4934.ts
-#EXTINF:-1,AFN Prime Pacific US
-http://mypanel.tv:8080/live/tm/tm2017/4933.ts
-#EXTINF:-1,AFN Pulse US
-http://mypanel.tv:8080/live/tm/tm2017/4932.ts
-#EXTINF:-1,AFN Spectrum HD US
-http://mypanel.tv:8080/live/tm/tm2017/14396.ts
-#EXTINF:-1,AFN Spectrum US
-http://mypanel.tv:8080/live/tm/tm2017/4929.ts
-#EXTINF:-1,AFN Sport 1 US
-http://mypanel.tv:8080/live/tm/tm2017/14395.ts
-#EXTINF:-1,AFN Sport 2 US
-http://mypanel.tv:8080/live/tm/tm2017/14394.ts
-#EXTINF:-1,AFN Sports 2 US
-http://mypanel.tv:8080/live/tm/tm2017/4927.ts
-#EXTINF:-1,AFN Sports HD US
-http://mypanel.tv:8080/live/tm/tm2017/4928.ts
-#EXTINF:-1,AFN Sports US
-http://mypanel.tv:8080/live/tm/tm2017/14412.ts
-#EXTINF:-1,AMC HD US
-http://mypanel.tv:8080/live/tm/tm2017/4959.ts
-#EXTINF:-1,AMC  US
-http://mypanel.tv:8080/live/tm/tm2017/6363.ts
-#EXTINF:-1,AMG TV HD US
-http://mypanel.tv:8080/live/tm/tm2017/4900.ts
-#EXTINF:-1,Action Max FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4869.ts
-#EXTINF:-1,Animal Planet HD US
-http://mypanel.tv:8080/live/tm/tm2017/14393.ts
-#EXTINF:-1,Animal Planet US
-http://mypanel.tv:8080/live/tm/tm2017/6362.ts
-#EXTINF:-1,beIN Sports FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13759.ts
-#EXTINF:-1,beiN Sports HD US
-http://mypanel.tv:8080/live/tm/tm2017/4902.ts
-#EXTINF:-1,BBC America HD US
-http://mypanel.tv:8080/live/tm/tm2017/14392.ts
-#EXTINF:-1,BTN Sport US
-http://mypanel.tv:8080/live/tm/tm2017/4884.ts
-#EXTINF:-1,BYU Sports TV US
-http://mypanel.tv:8080/live/tm/tm2017/4910.ts
-#EXTINF:-1,Bet FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13764.ts
-#EXTINF:-1,Bet HD US
-http://mypanel.tv:8080/live/tm/tm2017/4958.ts
-#EXTINF:-1,Big Ten US
-http://mypanel.tv:8080/live/tm/tm2017/6361.ts
-#EXTINF:-1,Bloomberg FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4940.ts
-#EXTINF:-1,Bloomberg HD US
-http://mypanel.tv:8080/live/tm/tm2017/6360.ts
-#EXTINF:-1,Bravo HD US
-http://mypanel.tv:8080/live/tm/tm2017/4883.ts
-#EXTINF:-1,C-Span 1 US
-http://mypanel.tv:8080/live/tm/tm2017/14391.ts
-#EXTINF:-1,C-Span 2 US
-http://mypanel.tv:8080/live/tm/tm2017/14390.ts
-#EXTINF:-1,C-Span 3 US
-http://mypanel.tv:8080/live/tm/tm2017/14389.ts
-#EXTINF:-1,CBC Vancover US
-http://mypanel.tv:8080/live/tm/tm2017/14386.ts
-#EXTINF:-1,CBN US
-http://mypanel.tv:8080/live/tm/tm2017/4920.ts
-#EXTINF:-1,CBS FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13751.ts
-#EXTINF:-1,CBS HD US
-http://mypanel.tv:8080/live/tm/tm2017/6348.ts
-#EXTINF:-1,CBS Sports Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14385.ts
-#EXTINF:-1,CBS US
-http://mypanel.tv:8080/live/tm/tm2017/4885.ts
-#EXTINF:-1,CBS W HD US
-http://mypanel.tv:8080/live/tm/tm2017/14384.ts
-#EXTINF:-1,CBSN  HD US
-http://mypanel.tv:8080/live/tm/tm2017/6342.ts
-#EXTINF:-1,CBSN US
-http://mypanel.tv:8080/live/tm/tm2017/4939.ts
-#EXTINF:-1,CNBC HD US
-http://mypanel.tv:8080/live/tm/tm2017/4956.ts
-#EXTINF:-1,CNN HD US
-http://mypanel.tv:8080/live/tm/tm2017/4919.ts
-#EXTINF:-1,CNN News FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13750.ts
-#EXTINF:-1,CNN News HD US
-http://mypanel.tv:8080/live/tm/tm2017/14377.ts
-#EXTINF:-1,CNN US
-http://mypanel.tv:8080/live/tm/tm2017/6359.ts
-#EXTINF:-1,CTV 2 Vancover Island US
-http://mypanel.tv:8080/live/tm/tm2017/14375.ts
-#EXTINF:-1,CTV Vancouver US
-http://mypanel.tv:8080/live/tm/tm2017/14374.ts
-#EXTINF:-1,CW Central US
-http://mypanel.tv:8080/live/tm/tm2017/14401.ts
-#EXTINF:-1,CW US
-http://mypanel.tv:8080/live/tm/tm2017/4955.ts
-#EXTINF:-1,Cartoon Network FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4886.ts
-#EXTINF:-1,Cartoon Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14387.ts
-#EXTINF:-1,CineMax Action HD US
-http://mypanel.tv:8080/live/tm/tm2017/14382.ts
-#EXTINF:-1,CineMax ActionMax East US
-http://mypanel.tv:8080/live/tm/tm2017/14381.ts
-#EXTINF:-1,CineMax East US
-http://mypanel.tv:8080/live/tm/tm2017/14380.ts
-#EXTINF:-1,CineMax MoreMax US
-http://mypanel.tv:8080/live/tm/tm2017/14378.ts
-#EXTINF:-1,Cinemax 5 Starmax US
-http://mypanel.tv:8080/live/tm/tm2017/4911.ts
-#EXTINF:-1,Cinemax Action US
-http://mypanel.tv:8080/live/tm/tm2017/14383.ts
-#EXTINF:-1,Cinemax East FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4912.ts
-#EXTINF:-1,Cinemax FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4914.ts
-#EXTINF:-1,Cinemax More HD US
-http://mypanel.tv:8080/live/tm/tm2017/14379.ts
-#EXTINF:-1,Cinemax Moremax FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4913.ts
-#EXTINF:-1,Cinemax US
-http://mypanel.tv:8080/live/tm/tm2017/6693.ts
-#EXTINF:-1,Comedy Central FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14376.ts
-#EXTINF:-1,Comedy Central HD US
-http://mypanel.tv:8080/live/tm/tm2017/13823.ts
-#EXTINF:-1,Comedy Central US
-http://mypanel.tv:8080/live/tm/tm2017/4882.ts
-#EXTINF:-1,Crime and Investigation US
-http://mypanel.tv:8080/live/tm/tm2017/4879.ts
-#EXTINF:-1,Destination America FHD USA
-http://mypanel.tv:8080/live/tm/tm2017/17640.ts
-#EXTINF:-1,DW US
-http://mypanel.tv:8080/live/tm/tm2017/14366.ts
-#EXTINF:-1,Discovery Channel HD US
-http://mypanel.tv:8080/live/tm/tm2017/14373.ts
-#EXTINF:-1,Discovery HD US
-http://mypanel.tv:8080/live/tm/tm2017/14372.ts
-#EXTINF:-1,Discovery ID FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4918.ts
-#EXTINF:-1,Discovery Science US
-http://mypanel.tv:8080/live/tm/tm2017/4887.ts
-#EXTINF:-1,Discovery Velocity FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4877.ts
-#EXTINF:-1,Discovery Velocity US
-http://mypanel.tv:8080/live/tm/tm2017/14371.ts
-#EXTINF:-1,Disney Channel FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14370.ts
-#EXTINF:-1,Disney Channel HD US
-http://mypanel.tv:8080/live/tm/tm2017/14369.ts
-#EXTINF:-1,Disney XD FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14368.ts
-#EXTINF:-1,Disney XD HD US
-http://mypanel.tv:8080/live/tm/tm2017/14367.ts
-#EXTINF:-1,Diy Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/11373.ts
-#EXTINF:-1,E! HD US
-http://mypanel.tv:8080/live/tm/tm2017/14365.ts
-#EXTINF:-1,E! Network US
-http://mypanel.tv:8080/live/tm/tm2017/4951.ts
-#EXTINF:-1,ESPN 1 US
-http://mypanel.tv:8080/live/tm/tm2017/14405.ts
-#EXTINF:-1,ESPN 2 FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13749.ts
-#EXTINF:-1,ESPN 2 HD US
-http://mypanel.tv:8080/live/tm/tm2017/4936.ts
-#EXTINF:-1,ESPN 3 US
-http://mypanel.tv:8080/live/tm/tm2017/6708.ts
-#EXTINF:-1,ESPN HD US
-http://mypanel.tv:8080/live/tm/tm2017/14363.ts
-#EXTINF:-1,ESPN News HD US
-http://mypanel.tv:8080/live/tm/tm2017/4935.ts
-#EXTINF:-1,ESPN Plus US
-http://mypanel.tv:8080/live/tm/tm2017/6707.ts
-#EXTINF:-1,ESPN U US
-http://mypanel.tv:8080/live/tm/tm2017/33498.ts
-#EXTINF:-1,ESPN US
-http://mypanel.tv:8080/live/tm/tm2017/4937.ts
-#EXTINF:-1,El Rey Network FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13758.ts
-#EXTINF:-1,El Rey Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14364.ts
-#EXTINF:-1,FOX Soccer Plus HD US
-http://mypanel.tv:8080/live/tm/tm2017/14408.ts
-#EXTINF:-1,FX FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13763.ts
-#EXTINF:-1,FX HD US
-http://mypanel.tv:8080/live/tm/tm2017/4942.ts
-#EXTINF:-1,FXX FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13756.ts
-#EXTINF:-1,FXX HD US
-http://mypanel.tv:8080/live/tm/tm2017/14353.ts
-#EXTINF:-1,Fashion One HD US
-http://mypanel.tv:8080/live/tm/tm2017/14362.ts
-#EXTINF:-1,Fight Network FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13748.ts
-#EXTINF:-1,Fight Sport US
-http://mypanel.tv:8080/live/tm/tm2017/14361.ts
-#EXTINF:-1,Fine Living US
-http://mypanel.tv:8080/live/tm/tm2017/14360.ts
-#EXTINF:-1,Food Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14359.ts
-#EXTINF:-1,Food Network US
-http://mypanel.tv:8080/live/tm/tm2017/4949.ts
-#EXTINF:-1,Fox Deportes US
-http://mypanel.tv:8080/live/tm/tm2017/4945.ts
-#EXTINF:-1,Fox FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13757.ts
-#EXTINF:-1,Fox HD US
-http://mypanel.tv:8080/live/tm/tm2017/4948.ts
-#EXTINF:-1,Fox News FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14358.ts
-#EXTINF:-1,Fox News HD US
-http://mypanel.tv:8080/live/tm/tm2017/14357.ts
-#EXTINF:-1,Fox News US
-http://mypanel.tv:8080/live/tm/tm2017/4943.ts
-#EXTINF:-1,Fox Sports 1 FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13747.ts
-#EXTINF:-1,Fox Sports 1 HD US
-http://mypanel.tv:8080/live/tm/tm2017/4947.ts
-#EXTINF:-1,Fox Sports 1 US
-http://mypanel.tv:8080/live/tm/tm2017/6357.ts
-#EXTINF:-1,Fox Sports 2 HD US
-http://mypanel.tv:8080/live/tm/tm2017/4946.ts
-#EXTINF:-1,Fox Sports 2 US
-http://mypanel.tv:8080/live/tm/tm2017/6356.ts
-#EXTINF:-1,Fox Sports 506 FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4944.ts
-#EXTINF:-1,Fox Sports HD US
-http://mypanel.tv:8080/live/tm/tm2017/14356.ts
-#EXTINF:-1,Fox Sports North HD US
-http://mypanel.tv:8080/live/tm/tm2017/14355.ts
-#EXTINF:-1,Fox W HD US
-http://mypanel.tv:8080/live/tm/tm2017/14354.ts
-#EXTINF:-1,Free Form US
-http://mypanel.tv:8080/live/tm/tm2017/4950.ts
-#EXTINF:-1,Global BC US
-http://mypanel.tv:8080/live/tm/tm2017/14352.ts
-#EXTINF:-1,God TV US
-http://mypanel.tv:8080/live/tm/tm2017/14176.ts
-#EXTINF:-1,Golf HD US
-http://mypanel.tv:8080/live/tm/tm2017/6340.ts
-#EXTINF:-1,H2 US
-http://mypanel.tv:8080/live/tm/tm2017/4888.ts
-#EXTINF:-1,HBO Cinema HD US
-http://mypanel.tv:8080/live/tm/tm2017/14349.ts
-#EXTINF:-1,HBO Comedy FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4921.ts
-#EXTINF:-1,HBO Comedy HD US
-http://mypanel.tv:8080/live/tm/tm2017/13762.ts
-#EXTINF:-1,HBO Est FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13742.ts
-#EXTINF:-1,HBO FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14411.ts
-#EXTINF:-1,HBO Family FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13741.ts
-#EXTINF:-1,HBO HD US
-http://mypanel.tv:8080/live/tm/tm2017/4923.ts
-#EXTINF:-1,HBO Signature FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13761.ts
-#EXTINF:-1,HBO Signature HD US
-http://mypanel.tv:8080/live/tm/tm2017/6343.ts
-#EXTINF:-1,HBO US
-http://mypanel.tv:8080/live/tm/tm2017/14350.ts
-#EXTINF:-1,HBO Zone US
-http://mypanel.tv:8080/live/tm/tm2017/4922.ts
-#EXTINF:-1,HGTV HD US
-http://mypanel.tv:8080/live/tm/tm2017/14348.ts
-#EXTINF:-1,HGTV US
-http://mypanel.tv:8080/live/tm/tm2017/10218.ts
-#EXTINF:-1,HIFI HD US
-http://mypanel.tv:8080/live/tm/tm2017/4890.ts
-#EXTINF:-1,Hallmark FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4889.ts
-#EXTINF:-1,Hallmark Movies & Mysteries FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13746.ts
-#EXTINF:-1,History Channel FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4880.ts
-#EXTINF:-1,History FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13754.ts
-#EXTINF:-1,History HD US
-http://mypanel.tv:8080/live/tm/tm2017/14346.ts
-#EXTINF:-1,History US
-http://mypanel.tv:8080/live/tm/tm2017/14347.ts
-#EXTINF:-1,ID HD US
-http://mypanel.tv:8080/live/tm/tm2017/14345.ts
-#EXTINF:-1,IFC FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13739.ts
-#EXTINF:-1,Lifetime HD US
-http://mypanel.tv:8080/live/tm/tm2017/14343.ts
-#EXTINF:-1,MLB Live US
-http://mypanel.tv:8080/live/tm/tm2017/4867.ts
-#EXTINF:-1,MLB Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14402.ts
-#EXTINF:-1,MLB Network US
-http://mypanel.tv:8080/live/tm/tm2017/4868.ts
-#EXTINF:-1,MSNBC FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13738.ts
-#EXTINF:-1,MSNBC HD US
-http://mypanel.tv:8080/live/tm/tm2017/14398.ts
-#EXTINF:-1,MSNBC US
-http://mypanel.tv:8080/live/tm/tm2017/4904.ts
-#EXTINF:-1,MTV FHD US
-http://mypanel.tv:8080/live/tm/tm2017/14342.ts
-#EXTINF:-1,MTV HD US
-http://mypanel.tv:8080/live/tm/tm2017/14341.ts
-#EXTINF:-1,MTV Rocks US
-http://mypanel.tv:8080/live/tm/tm2017/14340.ts
-#EXTINF:-1,NASA US
-http://mypanel.tv:8080/live/tm/tm2017/4941.ts
-#EXTINF:-1,NBA HD US
-http://mypanel.tv:8080/live/tm/tm2017/14338.ts
-#EXTINF:-1,NBA TV HD US
-http://mypanel.tv:8080/live/tm/tm2017/6355.ts
-#EXTINF:-1,NBC Golf FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13753.ts
-#EXTINF:-1,NBC Golf HD US
-http://mypanel.tv:8080/live/tm/tm2017/4953.ts
-#EXTINF:-1,NBC Golf US
-http://mypanel.tv:8080/live/tm/tm2017/14410.ts
-#EXTINF:-1,NBC News HD US
-http://mypanel.tv:8080/live/tm/tm2017/14337.ts
-#EXTINF:-1,NBC SN HD US
-http://mypanel.tv:8080/live/tm/tm2017/14336.ts
-#EXTINF:-1,NBC Sport FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4952.ts
-#EXTINF:-1,NBC Sports Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14403.ts
-#EXTINF:-1,NBC US
-http://mypanel.tv:8080/live/tm/tm2017/4954.ts
-#EXTINF:-1,NBC W HD US
-http://mypanel.tv:8080/live/tm/tm2017/14331.ts
-#EXTINF:-1,NBCSN HD US
-http://mypanel.tv:8080/live/tm/tm2017/14330.ts
-#EXTINF:-1,NFL  HD US
-http://mypanel.tv:8080/live/tm/tm2017/6345.ts
-#EXTINF:-1,NFL HD US
-http://mypanel.tv:8080/live/tm/tm2017/4917.ts
-#EXTINF:-1,NFL Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14329.ts
-#EXTINF:-1,NFL Now HD US
-http://mypanel.tv:8080/live/tm/tm2017/14328.ts
-#EXTINF:-1,NHL Network FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4875.ts
-#EXTINF:-1,NHL Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/14409.ts
-#EXTINF:-1,Nat Geo Wild FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13745.ts
-#EXTINF:-1,National Geographic FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4881.ts
-#EXTINF:-1,National Geographic HD US
-http://mypanel.tv:8080/live/tm/tm2017/14339.ts
-#EXTINF:-1,Nick FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13744.ts
-#EXTINF:-1,Nick HD US
-http://mypanel.tv:8080/live/tm/tm2017/14327.ts
-#EXTINF:-1,OWN FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13760.ts
-#EXTINF:-1,OWN HD US
-http://mypanel.tv:8080/live/tm/tm2017/11255.ts
-#EXTINF:-1,OWN US
-http://mypanel.tv:8080/live/tm/tm2017/14326.ts
-#EXTINF:-1,Outdoor Channel HD US
-http://mypanel.tv:8080/live/tm/tm2017/14325.ts
-#EXTINF:-1,PAC Arizona HD US
-http://mypanel.tv:8080/live/tm/tm2017/4866.ts
-#EXTINF:-1,PAC Los Angeles FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4864.ts
-#EXTINF:-1,PAC Oregon FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4863.ts
-#EXTINF:-1,PAC Washington FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4862.ts
-#EXTINF:-1,PAC-12 Los Angeles FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13737.ts
-#EXTINF:-1,PAC-12 Oregon FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13752.ts
-#EXTINF:-1,PAC-12 Washington FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13736.ts
-#EXTINF:-1,PAC12 Bay Area HD US
-http://mypanel.tv:8080/live/tm/tm2017/4865.ts
-#EXTINF:-1,PBS HD US
-http://mypanel.tv:8080/live/tm/tm2017/14324.ts
-#EXTINF:-1,Pick TV US
-http://mypanel.tv:8080/live/tm/tm2017/14323.ts
-#EXTINF:-1,RT Documentary HD US
-http://mypanel.tv:8080/live/tm/tm2017/4906.ts
-#EXTINF:-1,Showtime East HD US
-http://mypanel.tv:8080/live/tm/tm2017/14322.ts
-#EXTINF:-1,Showtime FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13735.ts
-#EXTINF:-1,Showtime Showcase HD US
-http://mypanel.tv:8080/live/tm/tm2017/4891.ts
-#EXTINF:-1,Showtime US
-http://mypanel.tv:8080/live/tm/tm2017/4926.ts
-#EXTINF:-1,Showtime West US
-http://mypanel.tv:8080/live/tm/tm2017/14321.ts
-#EXTINF:-1,Smile Of A Child US
-http://mypanel.tv:8080/live/tm/tm2017/14320.ts
-#EXTINF:-1,Spike FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4892.ts
-#EXTINF:-1,Spike HD US
-http://mypanel.tv:8080/live/tm/tm2017/14319.ts
-#EXTINF:-1,Sportnet Ontario US
-http://mypanel.tv:8080/live/tm/tm2017/14406.ts
-#EXTINF:-1,Sports Net 360 FHD US
-http://mypanel.tv:8080/live/tm/tm2017/4915.ts
-#EXTINF:-1,Sports Net One HD US
-http://mypanel.tv:8080/live/tm/tm2017/4916.ts
-#EXTINF:-1,Sports Net One HD. US
-http://mypanel.tv:8080/live/tm/tm2017/4894.ts
-#EXTINF:-1,Sports Net West HD US
-http://mypanel.tv:8080/live/tm/tm2017/4861.ts
-#EXTINF:-1,Sportsnet East HD US
-http://mypanel.tv:8080/live/tm/tm2017/14318.ts
-#EXTINF:-1,Sports net Ontario HD US
-http://mypanel.tv:8080/live/tm/tm2017/14317.ts
-#EXTINF:-1,Sportsnet 360 HD US
-http://mypanel.tv:8080/live/tm/tm2017/14388.ts
-#EXTINF:-1,Starz Cinema US
-http://mypanel.tv:8080/live/tm/tm2017/4898.ts
-#EXTINF:-1,Starz Comedy US
-http://mypanel.tv:8080/live/tm/tm2017/4899.ts
-#EXTINF:-1,Starz East US
-http://mypanel.tv:8080/live/tm/tm2017/4895.ts
-#EXTINF:-1,Starz Edge US
-http://mypanel.tv:8080/live/tm/tm2017/4897.ts
-#EXTINF:-1,Starz Encore US
-http://mypanel.tv:8080/live/tm/tm2017/4896.ts
-#EXTINF:-1,Starz West US
-http://mypanel.tv:8080/live/tm/tm2017/4907.ts
-#EXTINF:-1,TBS FHD US
-http://mypanel.tv:8080/live/tm/tm2017/6341.ts
-#EXTINF:-1,TBS US
-http://mypanel.tv:8080/live/tm/tm2017/4908.ts
-#EXTINF:-1,TLC Discovery US
-http://mypanel.tv:8080/live/tm/tm2017/6747.ts
-#EXTINF:-1,TLC FHD US
-http://mypanel.tv:8080/live/tm/tm2017/13734.ts
-#EXTINF:-1,TLC HD US
-http://mypanel.tv:8080/live/tm/tm2017/14397.ts
-#EXTINF:-1,TLC US
-http://mypanel.tv:8080/live/tm/tm2017/4924.ts
-#EXTINF:-1,TNT HD US
-http://mypanel.tv:8080/live/tm/tm2017/6354.ts
-#EXTINF:-1,TNT US
-http://mypanel.tv:8080/live/tm/tm2017/4876.ts
-#EXTINF:-1,TSN 1 SD US
-http://mypanel.tv:8080/live/tm/tm2017/6353.ts
-#EXTINF:-1,TSN 2 HD US
-http://mypanel.tv:8080/live/tm/tm2017/6352.ts
-#EXTINF:-1,TSN 3 HD US
-http://mypanel.tv:8080/live/tm/tm2017/6351.ts
-#EXTINF:-1,TSN 4 HD US
-http://mypanel.tv:8080/live/tm/tm2017/6350.ts
-#EXTINF:-1,TSN 5 HD US
-http://mypanel.tv:8080/live/tm/tm2017/6349.ts
-#EXTINF:-1,Tennis FHD US
-http://mypanel.tv:8080/live/tm/tm2017/7084.ts
-#EXTINF:-1,USA Network HD US
-http://mypanel.tv:8080/live/tm/tm2017/4901.ts
-#EXTINF:-1,VH1 HD US
-http://mypanel.tv:8080/live/tm/tm2017/11254.ts
-#EXTINF:-1,VH1 US
-http://mypanel.tv:8080/live/tm/tm2017/6753.ts
-#EXTINF:-1,WWE HD US
-http://mypanel.tv:8080/live/tm/tm2017/14404.ts
-#EXTINF:-1,WWE US
-http://mypanel.tv:8080/live/tm/tm2017/6347.ts
-#EXTINF:-1,UFC Fight Pass (Live Events Only) US
-http://mypanel.tv:8080/live/tm/tm2017/16617.ts
-#EXTINF:-1,LMN HD US
-http://mypanel.tv:8080/live/tm/tm2017/17513.ts
-#EXTINF:-1,SEC Network US
-http://mypanel.tv:8080/live/tm/tm2017/32382.ts
-#EXTINF:-1,Travel Channel US
-http://mypanel.tv:8080/live/tm/tm2017/32381.ts
-#EXTINF:-1,NESN HD US
-http://mypanel.tv:8080/live/tm/tm2017/34415.ts
-#EXTINF:-1,A & E HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37012.ts
-#EXTINF:-1,A&E CA
-http://mypanel.tv:8080/live/tm/tm2017/12807.ts
-#EXTINF:-1,ABC East CA
-http://mypanel.tv:8080/live/tm/tm2017/17816.ts
-#EXTINF:-1,ABC Spark CA
-http://mypanel.tv:8080/live/tm/tm2017/17815.ts
-#EXTINF:-1,ABC Spark HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37011.ts
-#EXTINF:-1,ABC West CA
-http://mypanel.tv:8080/live/tm/tm2017/17803.ts
-#EXTINF:-1,ABC West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37010.ts
-#EXTINF:-1,AHC CA
-http://mypanel.tv:8080/live/tm/tm2017/17812.ts
-#EXTINF:-1,AMC HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37090.ts
-#EXTINF:-1,APTN CA
-http://mypanel.tv:8080/live/tm/tm2017/17811.ts
-#EXTINF:-1,APTN HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37088.ts
-#EXTINF:-1,ARTV CA
-http://mypanel.tv:8080/live/tm/tm2017/17810.ts
-#EXTINF:-1,Action CA
-http://mypanel.tv:8080/live/tm/tm2017/17814.ts
-#EXTINF:-1,Action HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37091.ts
-#EXTINF:-1,Addik TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17813.ts
-#EXTINF:-1,Amc CA
-http://mypanel.tv:8080/live/tm/tm2017/12779.ts
-#EXTINF:-1,Animal Planet CA
-http://mypanel.tv:8080/live/tm/tm2017/17802.ts
-#EXTINF:-1,Animal Planet HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37089.ts
-#EXTINF:-1,BBC CA
-http://mypanel.tv:8080/live/tm/tm2017/17809.ts
-#EXTINF:-1,BBC Earth HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37087.ts
-#EXTINF:-1,BBC Kids CA
-http://mypanel.tv:8080/live/tm/tm2017/17808.ts
-#EXTINF:-1,BBC World News CA
-http://mypanel.tv:8080/live/tm/tm2017/17807.ts
-#EXTINF:-1,BNN CA
-http://mypanel.tv:8080/live/tm/tm2017/17805.ts
-#EXTINF:-1,Bet CA
-http://mypanel.tv:8080/live/tm/tm2017/17806.ts
-#EXTINF:-1,Book TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17804.ts
-#EXTINF:-1,Bravo CA
-http://mypanel.tv:8080/live/tm/tm2017/12806.ts
-#EXTINF:-1,Bravo HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37086.ts
-#EXTINF:-1,CBC Calgary HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37107.ts
-#EXTINF:-1,CBC Edmonton HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37106.ts
-#EXTINF:-1,CBC French HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37105.ts
-#EXTINF:-1,CBC Montreal CA
-http://mypanel.tv:8080/live/tm/tm2017/17789.ts
-#EXTINF:-1,CBC Montreal HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37104.ts
-#EXTINF:-1,CBC News CA
-http://mypanel.tv:8080/live/tm/tm2017/17788.ts
-#EXTINF:-1,CBC News Toronto HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37103.ts
-#EXTINF:-1,CBC Ottawa CA
-http://mypanel.tv:8080/live/tm/tm2017/17787.ts
-#EXTINF:-1,CBC Ottawa HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37102.ts
-#EXTINF:-1,CBC Toronto CA
-http://mypanel.tv:8080/live/tm/tm2017/17799.ts
-#EXTINF:-1,CBC Toronto HD CA CA
-http://mypanel.tv:8080/live/tm/tm2017/37108.ts
-#EXTINF:-1,CBC Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17786.ts
-#EXTINF:-1,CBC Vancouver HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37101.ts
-#EXTINF:-1,CBC Winnipeg HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37100.ts
-#EXTINF:-1,CBS East CA
-http://mypanel.tv:8080/live/tm/tm2017/17785.ts
-#EXTINF:-1,CBS West CA
-http://mypanel.tv:8080/live/tm/tm2017/17784.ts
-#EXTINF:-1,CBS West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37099.ts
-#EXTINF:-1,CHCH CA
-http://mypanel.tv:8080/live/tm/tm2017/12739.ts
-#EXTINF:-1,CHCH HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37084.ts
-#EXTINF:-1,CHEK HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37083.ts
-#EXTINF:-1,CMT CA
-http://mypanel.tv:8080/live/tm/tm2017/17780.ts
-#EXTINF:-1,CNBC CA
-http://mypanel.tv:8080/live/tm/tm2017/17779.ts
-#EXTINF:-1,CNN CA
-http://mypanel.tv:8080/live/tm/tm2017/17798.ts
-#EXTINF:-1,CNN HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37080.ts
-#EXTINF:-1,CNN International CA
-http://mypanel.tv:8080/live/tm/tm2017/17778.ts
-#EXTINF:-1,CP24 CA
-http://mypanel.tv:8080/live/tm/tm2017/12755.ts
-#EXTINF:-1,CP24 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37077.ts
-#EXTINF:-1,CPAC CA
-http://mypanel.tv:8080/live/tm/tm2017/17796.ts
-#EXTINF:-1,CPAC HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37076.ts
-#EXTINF:-1,CTV 2 Ottawa CA
-http://mypanel.tv:8080/live/tm/tm2017/17773.ts
-#EXTINF:-1,CTV 2 Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17795.ts
-#EXTINF:-1,CTV 2 Vancouver HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37098.ts
-#EXTINF:-1,CTV News Network CA
-http://mypanel.tv:8080/live/tm/tm2017/17794.ts
-#EXTINF:-1,CTV News Toronto HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37097.ts
-#EXTINF:-1,CTV Ottawa CA
-http://mypanel.tv:8080/live/tm/tm2017/17793.ts
-#EXTINF:-1,CTV Toronto CA
-http://mypanel.tv:8080/live/tm/tm2017/12800.ts
-#EXTINF:-1,CTV Toronto HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37095.ts
-#EXTINF:-1,CTV Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17774.ts
-#EXTINF:-1,CTV Vancouver HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37094.ts
-#EXTINF:-1,CW 11 CA
-http://mypanel.tv:8080/live/tm/tm2017/17792.ts
-#EXTINF:-1,Canal D CA
-http://mypanel.tv:8080/live/tm/tm2017/17791.ts
-#EXTINF:-1,Canal Savoir CA
-http://mypanel.tv:8080/live/tm/tm2017/17801.ts
-#EXTINF:-1,Cartoon Network HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37085.ts
-#EXTINF:-1,Cine Pop CA
-http://mypanel.tv:8080/live/tm/tm2017/17783.ts
-#EXTINF:-1,City TV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12750.ts
-#EXTINF:-1,City Toronto CA
-http://mypanel.tv:8080/live/tm/tm2017/17782.ts
-#EXTINF:-1,City Toronto HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37082.ts
-#EXTINF:-1,City Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17781.ts
-#EXTINF:-1,City Vancouver HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37081.ts
-#EXTINF:-1,Comedy East CA
-http://mypanel.tv:8080/live/tm/tm2017/17777.ts
-#EXTINF:-1,Comedy Gold CA
-http://mypanel.tv:8080/live/tm/tm2017/12803.ts
-#EXTINF:-1,Comedy HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37079.ts
-#EXTINF:-1,Cooking Channel CA
-http://mypanel.tv:8080/live/tm/tm2017/17797.ts
-#EXTINF:-1,Cooking Channel HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37078.ts
-#EXTINF:-1,Cosmo CA
-http://mypanel.tv:8080/live/tm/tm2017/17776.ts
-#EXTINF:-1,Cottage TV Life CA
-http://mypanel.tv:8080/live/tm/tm2017/12801.ts
-#EXTINF:-1,Crime Investigation CA
-http://mypanel.tv:8080/live/tm/tm2017/17775.ts
-#EXTINF:-1,DayStar TV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37075.ts
-#EXTINF:-1,Daystar TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17772.ts
-#EXTINF:-1,Dejaview CA
-http://mypanel.tv:8080/live/tm/tm2017/17771.ts
-#EXTINF:-1,Discovery Channel CA
-http://mypanel.tv:8080/live/tm/tm2017/12799.ts
-#EXTINF:-1,Discovery HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37074.ts
-#EXTINF:-1,Discovery Science CA
-http://mypanel.tv:8080/live/tm/tm2017/12798.ts
-#EXTINF:-1,Discovery Science HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37073.ts
-#EXTINF:-1,Discovery Velocity CA
-http://mypanel.tv:8080/live/tm/tm2017/17770.ts
-#EXTINF:-1,Disney CA
-http://mypanel.tv:8080/live/tm/tm2017/12797.ts
-#EXTINF:-1,Disney JR HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37072.ts
-#EXTINF:-1,Disney Junior CA
-http://mypanel.tv:8080/live/tm/tm2017/12796.ts
-#EXTINF:-1,Disney USA HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37071.ts
-#EXTINF:-1,Diy CA
-http://mypanel.tv:8080/live/tm/tm2017/17769.ts
-#EXTINF:-1,Documentary CA
-http://mypanel.tv:8080/live/tm/tm2017/12795.ts
-#EXTINF:-1,Documentary HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37070.ts
-#EXTINF:-1,Dtour CA
-http://mypanel.tv:8080/live/tm/tm2017/17768.ts
-#EXTINF:-1,E! CA
-http://mypanel.tv:8080/live/tm/tm2017/17767.ts
-#EXTINF:-1,E! HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37069.ts
-#EXTINF:-1,Encore 1 East CA
-http://mypanel.tv:8080/live/tm/tm2017/17766.ts
-#EXTINF:-1,Encore 2 East CA
-http://mypanel.tv:8080/live/tm/tm2017/17765.ts
-#EXTINF:-1,FTV CA
-http://mypanel.tv:8080/live/tm/tm2017/17759.ts
-#EXTINF:-1,FX CA
-http://mypanel.tv:8080/live/tm/tm2017/17758.ts
-#EXTINF:-1,FX HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37064.ts
-#EXTINF:-1,FXX HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37063.ts
-#EXTINF:-1,FYI CA
-http://mypanel.tv:8080/live/tm/tm2017/17757.ts
-#EXTINF:-1,Family CHRGD CA
-http://mypanel.tv:8080/live/tm/tm2017/17764.ts
-#EXTINF:-1,Family East CA
-http://mypanel.tv:8080/live/tm/tm2017/17763.ts
-#EXTINF:-1,Family East HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37068.ts
-#EXTINF:-1,Family West CA
-http://mypanel.tv:8080/live/tm/tm2017/12794.ts
-#EXTINF:-1,Fight Network CA
-http://mypanel.tv:8080/live/tm/tm2017/12793.ts
-#EXTINF:-1,Food Network CA
-http://mypanel.tv:8080/live/tm/tm2017/12778.ts
-#EXTINF:-1,Food Network HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37067.ts
-#EXTINF:-1,Fox East CA
-http://mypanel.tv:8080/live/tm/tm2017/17762.ts
-#EXTINF:-1,Fox HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37066.ts
-#EXTINF:-1,Fox News CA
-http://mypanel.tv:8080/live/tm/tm2017/17761.ts
-#EXTINF:-1,Fox West CA
-http://mypanel.tv:8080/live/tm/tm2017/12792.ts
-#EXTINF:-1,Fox West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37065.ts
-#EXTINF:-1,GSN CA
-http://mypanel.tv:8080/live/tm/tm2017/17752.ts
-#EXTINF:-1,Game TV CA
-http://mypanel.tv:8080/live/tm/tm2017/12790.ts
-#EXTINF:-1,Ginx Esports TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17756.ts
-#EXTINF:-1,Global HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12748.ts
-#EXTINF:-1,Global Toronto HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37093.ts
-#EXTINF:-1,Global Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17755.ts
-#EXTINF:-1,Global Vancouver HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37092.ts
-#EXTINF:-1,Golf CA
-http://mypanel.tv:8080/live/tm/tm2017/17754.ts
-#EXTINF:-1,Golf FHD CA
-http://mypanel.tv:8080/live/tm/tm2017/37062.ts
-#EXTINF:-1,Golf HD CA
-http://mypanel.tv:8080/live/tm/tm2017/17753.ts
-#EXTINF:-1,Gusto CA
-http://mypanel.tv:8080/live/tm/tm2017/17751.ts
-#EXTINF:-1,H2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17750.ts
-#EXTINF:-1,HBO 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/12789.ts
-#EXTINF:-1,HBO 1 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37061.ts
-#EXTINF:-1,HBO 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/12788.ts
-#EXTINF:-1,HBO West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37060.ts
-#EXTINF:-1,HGTV CA
-http://mypanel.tv:8080/live/tm/tm2017/12787.ts
-#EXTINF:-1,HGTV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37059.ts
-#EXTINF:-1,HIFI HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37058.ts
-#EXTINF:-1,HLN CA
-http://mypanel.tv:8080/live/tm/tm2017/12777.ts
-#EXTINF:-1,Historio CA
-http://mypanel.tv:8080/live/tm/tm2017/17749.ts
-#EXTINF:-1,History CA
-http://mypanel.tv:8080/live/tm/tm2017/12786.ts
-#EXTINF:-1,History HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37057.ts
-#EXTINF:-1,History Two HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37056.ts
-#EXTINF:-1,ICI Montreal CA
-http://mypanel.tv:8080/live/tm/tm2017/17748.ts
-#EXTINF:-1,ICI Montreal HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37055.ts
-#EXTINF:-1,ICI Vancouver CA
-http://mypanel.tv:8080/live/tm/tm2017/17747.ts
-#EXTINF:-1,ID CA
-http://mypanel.tv:8080/live/tm/tm2017/17746.ts
-#EXTINF:-1,IFC CA
-http://mypanel.tv:8080/live/tm/tm2017/17745.ts
-#EXTINF:-1,Joy TV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37054.ts
-#EXTINF:-1,KTLA CA
-http://mypanel.tv:8080/live/tm/tm2017/17743.ts
-#EXTINF:-1,Knowledge Kids HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37053.ts
-#EXTINF:-1,LCN CA
-http://mypanel.tv:8080/live/tm/tm2017/17742.ts
-#EXTINF:-1,Leafs TV CA
-http://mypanel.tv:8080/live/tm/tm2017/12785.ts
-#EXTINF:-1,LifeTime CA
-http://mypanel.tv:8080/live/tm/tm2017/17741.ts
-#EXTINF:-1,Lifetime HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37052.ts
-#EXTINF:-1,Love Nature HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37051.ts
-#EXTINF:-1,MSNBC CA
-http://mypanel.tv:8080/live/tm/tm2017/17733.ts
-#EXTINF:-1,MTIME CA
-http://mypanel.tv:8080/live/tm/tm2017/17732.ts
-#EXTINF:-1,MTV CA
-http://mypanel.tv:8080/live/tm/tm2017/12784.ts
-#EXTINF:-1,Mav TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17738.ts
-#EXTINF:-1,Max CA
-http://mypanel.tv:8080/live/tm/tm2017/17737.ts
-#EXTINF:-1,Meteo CA
-http://mypanel.tv:8080/live/tm/tm2017/17736.ts
-#EXTINF:-1,Miracle CA
-http://mypanel.tv:8080/live/tm/tm2017/17735.ts
-#EXTINF:-1,Movietime HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37050.ts
-#EXTINF:-1,Much Music CA
-http://mypanel.tv:8080/live/tm/tm2017/12782.ts
-#EXTINF:-1,Musique Plus CA
-http://mypanel.tv:8080/live/tm/tm2017/17731.ts
-#EXTINF:-1,NBA TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17729.ts
-#EXTINF:-1,NBA TV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37047.ts
-#EXTINF:-1,NBC East CA
-http://mypanel.tv:8080/live/tm/tm2017/12781.ts
-#EXTINF:-1,NBC West CA
-http://mypanel.tv:8080/live/tm/tm2017/17728.ts
-#EXTINF:-1,NBC West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37046.ts
-#EXTINF:-1,NTV CA
-http://mypanel.tv:8080/live/tm/tm2017/17726.ts
-#EXTINF:-1,Nat Geo CA
-http://mypanel.tv:8080/live/tm/tm2017/17730.ts
-#EXTINF:-1,Nat Geo HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37049.ts
-#EXTINF:-1,Nat Geo Wild HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37048.ts
-#EXTINF:-1,Nick CA
-http://mypanel.tv:8080/live/tm/tm2017/17727.ts
-#EXTINF:-1,OLN CA
-http://mypanel.tv:8080/live/tm/tm2017/17725.ts
-#EXTINF:-1,OMNI 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/17724.ts
-#EXTINF:-1,OMNI 1 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37045.ts
-#EXTINF:-1,OMNI 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17723.ts
-#EXTINF:-1,OMNI 2 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37044.ts
-#EXTINF:-1,OMNI BC HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37043.ts
-#EXTINF:-1,OWN CA
-http://mypanel.tv:8080/live/tm/tm2017/17720.ts
-#EXTINF:-1,OWN HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37042.ts
-#EXTINF:-1,One CA
-http://mypanel.tv:8080/live/tm/tm2017/17722.ts
-#EXTINF:-1,Out TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17721.ts
-#EXTINF:-1,PBS East CA
-http://mypanel.tv:8080/live/tm/tm2017/17719.ts
-#EXTINF:-1,PBS East HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37041.ts
-#EXTINF:-1,PBS West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37040.ts
-#EXTINF:-1,PBS-W CA
-http://mypanel.tv:8080/live/tm/tm2017/12780.ts
-#EXTINF:-1,Peach Tree CA
-http://mypanel.tv:8080/live/tm/tm2017/17718.ts
-#EXTINF:-1,Peach Tree TV CA
-http://mypanel.tv:8080/live/tm/tm2017/12776.ts
-#EXTINF:-1,Prise CA
-http://mypanel.tv:8080/live/tm/tm2017/17716.ts
-#EXTINF:-1,RDI CA
-http://mypanel.tv:8080/live/tm/tm2017/17715.ts
-#EXTINF:-1,RDS 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17713.ts
-#EXTINF:-1,RDS CA
-http://mypanel.tv:8080/live/tm/tm2017/17714.ts
-#EXTINF:-1,SNet World HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37034.ts
-#EXTINF:-1,Seris CA
-http://mypanel.tv:8080/live/tm/tm2017/17712.ts
-#EXTINF:-1,Shopping CA
-http://mypanel.tv:8080/live/tm/tm2017/17711.ts
-#EXTINF:-1,Shopping HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37039.ts
-#EXTINF:-1,Showcase East CA
-http://mypanel.tv:8080/live/tm/tm2017/17710.ts
-#EXTINF:-1,Showcase East HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37038.ts
-#EXTINF:-1,Showcase HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37037.ts
-#EXTINF:-1,Silver Screen Classics CA
-http://mypanel.tv:8080/live/tm/tm2017/17709.ts
-#EXTINF:-1,Slice CA
-http://mypanel.tv:8080/live/tm/tm2017/12774.ts
-#EXTINF:-1,Slice HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37036.ts
-#EXTINF:-1,Smithsonian CA
-http://mypanel.tv:8080/live/tm/tm2017/17708.ts
-#EXTINF:-1,Smithsonian HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37035.ts
-#EXTINF:-1,Space CA
-http://mypanel.tv:8080/live/tm/tm2017/17707.ts
-#EXTINF:-1,Space HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37033.ts
-#EXTINF:-1,Spike TV / Paramount CA
-http://mypanel.tv:8080/live/tm/tm2017/17706.ts
-#EXTINF:-1,Spike TV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37032.ts
-#EXTINF:-1,Spike TV USA HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37031.ts
-#EXTINF:-1,SportsNet 360 CA
-http://mypanel.tv:8080/live/tm/tm2017/12746.ts
-#EXTINF:-1,SportsNet 360 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37030.ts
-#EXTINF:-1,SportsNet East HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12741.ts
-#EXTINF:-1,SportsNet One HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12742.ts
-#EXTINF:-1,SportsNet Ontario HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12743.ts
-#EXTINF:-1,SportsNet Pacific HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12744.ts
-#EXTINF:-1,SportsNet West HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12751.ts
-#EXTINF:-1,SportsNet World CA
-http://mypanel.tv:8080/live/tm/tm2017/12740.ts
-#EXTINF:-1,SportsNet World HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12752.ts
-#EXTINF:-1,Sundance CA
-http://mypanel.tv:8080/live/tm/tm2017/17705.ts
-#EXTINF:-1,Super Channel 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/17704.ts
-#EXTINF:-1,Super Channel 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17703.ts
-#EXTINF:-1,Super Channel Vault CA
-http://mypanel.tv:8080/live/tm/tm2017/12773.ts
-#EXTINF:-1,Super Ecran 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/12772.ts
-#EXTINF:-1,Super Ecran 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/12771.ts
-#EXTINF:-1,Super Ecran 3 CA
-http://mypanel.tv:8080/live/tm/tm2017/17702.ts
-#EXTINF:-1,Super Ecran 4 CA
-http://mypanel.tv:8080/live/tm/tm2017/17701.ts
-#EXTINF:-1,TCM CA
-http://mypanel.tv:8080/live/tm/tm2017/17700.ts
-#EXTINF:-1,TLC HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37028.ts
-#EXTINF:-1,TMN 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/17696.ts
-#EXTINF:-1,TMN 1 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37027.ts
-#EXTINF:-1,TMN 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17695.ts
-#EXTINF:-1,TMN 2 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37026.ts
-#EXTINF:-1,TMN 3 CA
-http://mypanel.tv:8080/live/tm/tm2017/17694.ts
-#EXTINF:-1,TMN 4 CA
-http://mypanel.tv:8080/live/tm/tm2017/17693.ts
-#EXTINF:-1,TSC Shopping HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37024.ts
-#EXTINF:-1,TSN 1 CA
-http://mypanel.tv:8080/live/tm/tm2017/17691.ts
-#EXTINF:-1,TSN 1 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37023.ts
-#EXTINF:-1,TSN 2 CA
-http://mypanel.tv:8080/live/tm/tm2017/17690.ts
-#EXTINF:-1,TSN 2 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37022.ts
-#EXTINF:-1,TSN 3 CA
-http://mypanel.tv:8080/live/tm/tm2017/17689.ts
-#EXTINF:-1,TSN 3 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37021.ts
-#EXTINF:-1,TSN 4 CA
-http://mypanel.tv:8080/live/tm/tm2017/17688.ts
-#EXTINF:-1,TSN 4 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37020.ts
-#EXTINF:-1,TSN 5 CA
-http://mypanel.tv:8080/live/tm/tm2017/17687.ts
-#EXTINF:-1,TSN 5 HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37019.ts
-#EXTINF:-1,TV5 Quebec CA
-http://mypanel.tv:8080/live/tm/tm2017/17686.ts
-#EXTINF:-1,TVA Gatineau CA
-http://mypanel.tv:8080/live/tm/tm2017/17685.ts
-#EXTINF:-1,TVA Montreal CA
-http://mypanel.tv:8080/live/tm/tm2017/17684.ts
-#EXTINF:-1,TVA Quebec CA
-http://mypanel.tv:8080/live/tm/tm2017/17683.ts
-#EXTINF:-1,TVA Sports CA
-http://mypanel.tv:8080/live/tm/tm2017/17682.ts
-#EXTINF:-1,TVO CA
-http://mypanel.tv:8080/live/tm/tm2017/17681.ts
-#EXTINF:-1,Tele Latino CA
-http://mypanel.tv:8080/live/tm/tm2017/17699.ts
-#EXTINF:-1,Tele Quebec CA
-http://mypanel.tv:8080/live/tm/tm2017/17698.ts
-#EXTINF:-1,Tele Toon East CA
-http://mypanel.tv:8080/live/tm/tm2017/12761.ts
-#EXTINF:-1,Teletoon + HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12745.ts
-#EXTINF:-1,Teletoon HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37029.ts
-#EXTINF:-1,The Weather Network CA
-http://mypanel.tv:8080/live/tm/tm2017/17697.ts
-#EXTINF:-1,Travel Escape CA
-http://mypanel.tv:8080/live/tm/tm2017/17692.ts
-#EXTINF:-1,Travel and Escape CA
-http://mypanel.tv:8080/live/tm/tm2017/12760.ts
-#EXTINF:-1,TreeHouse HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37025.ts
-#EXTINF:-1,Treehouse TV CA
-http://mypanel.tv:8080/live/tm/tm2017/12759.ts
-#EXTINF:-1,Univision CA
-http://mypanel.tv:8080/live/tm/tm2017/17680.ts
-#EXTINF:-1,V Montreal CA
-http://mypanel.tv:8080/live/tm/tm2017/17679.ts
-#EXTINF:-1,VIE CA
-http://mypanel.tv:8080/live/tm/tm2017/17677.ts
-#EXTINF:-1,Viceland CA
-http://mypanel.tv:8080/live/tm/tm2017/17678.ts
-#EXTINF:-1,Vision CA
-http://mypanel.tv:8080/live/tm/tm2017/17676.ts
-#EXTINF:-1,Vrak TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17675.ts
-#EXTINF:-1,W Network CA
-http://mypanel.tv:8080/live/tm/tm2017/12758.ts
-#EXTINF:-1,W Network HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37018.ts
-#EXTINF:-1,WFN CA
-http://mypanel.tv:8080/live/tm/tm2017/17674.ts
-#EXTINF:-1,WGN CA
-http://mypanel.tv:8080/live/tm/tm2017/17673.ts
-#EXTINF:-1,WSBK CA
-http://mypanel.tv:8080/live/tm/tm2017/12756.ts
-#EXTINF:-1,WWE HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37016.ts
-#EXTINF:-1,Weather Network HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37017.ts
-#EXTINF:-1,Wild TV CA
-http://mypanel.tv:8080/live/tm/tm2017/17672.ts
-#EXTINF:-1,YTV CA
-http://mypanel.tv:8080/live/tm/tm2017/12753.ts
-#EXTINF:-1,YTV HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37013.ts
-#EXTINF:-1,YTV West CA
-http://mypanel.tv:8080/live/tm/tm2017/17670.ts
-#EXTINF:-1,Yes TV Alberta HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37015.ts
-#EXTINF:-1,Yes TV Ontario HD CA
-http://mypanel.tv:8080/live/tm/tm2017/37014.ts
-#EXTINF:-1,Yes Tv CA
-http://mypanel.tv:8080/live/tm/tm2017/12754.ts
-#EXTINF:-1,Yoopa CA
-http://mypanel.tv:8080/live/tm/tm2017/17671.ts
-#EXTINF:-1,Z Tele CA
-http://mypanel.tv:8080/live/tm/tm2017/17669.ts
-#EXTINF:-1,Zeste CA
-http://mypanel.tv:8080/live/tm/tm2017/17667.ts
-#EXTINF:-1,beIN Sports HD CA
-http://mypanel.tv:8080/live/tm/tm2017/12747.ts
-#EXTM3U
-#EXTINF:-1,CAN: CP24
-http://xxultraxx.com:8000/live/abc12345/abc12345/9347.ts
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9346.ts
-#EXTINF:-1,CAN: DISCOVERY CHANNEL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9344.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9343.ts
-#EXTINF:-1,CAN: FAMILY WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9341.ts
-#EXTINF:-1,CAN: FIGHT NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9340.ts
-#EXTINF:-1,CAN: BRAVO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9348.ts
-#EXTINF:-1,CAN: FOX-W
-http://xxultraxx.com:8000/live/abc12345/abc12345/9339.ts
-#EXTINF:-1,CAN: GAME TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9337.ts
-#EXTINF:-1,CAN: Hallmark
-http://xxultraxx.com:8000/live/abc12345/abc12345/9361.ts
-#EXTINF:-1,CAN: HBO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9336.ts
-#EXTINF:-1,CAN: HBO 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9335.ts
-#EXTINF:-1,CAN: NBC EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9324.ts
-#EXTINF:-1,CAN: PBS-W
-http://xxultraxx.com:8000/live/abc12345/abc12345/9334.ts
-#EXTINF:-1,CAN: SHOWTIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9332.ts
-#EXTINF:-1,CAN: TELETOON EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9330.ts
-#EXTINF:-1,CAN: TLC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9331.ts
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9329.ts
-#EXTINF:-1,CAN: WSBK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9327.ts
-#EXTINF:-1,CAN: CTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9345.ts
-#EXTINF:-1,CAN: PEACH TREE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9333.ts
-#EXTINF:-1,CAN: TREEHOUSE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9328.ts
-#EXTINF:-1,CAN: YES
-http://xxultraxx.com:8000/live/abc12345/abc12345/9326.ts
-#EXTINF:-1,CAN: YTV-E
-http://xxultraxx.com:8000/live/abc12345/abc12345/9325.ts
-#EXTINF:-1,CAN: ABC EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9932.ts
-#EXTINF:-1,CAN: ABC SPARK CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9844.ts
-#EXTINF:-1,CAN: ABC WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9988.ts
-#EXTINF:-1,CAN: ACTION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9889.ts
-#EXTINF:-1,CAN: ADDIK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9888.ts
-#EXTINF:-1,CAN: AHC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9832.ts
-#EXTINF:-1,CAN: AMC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9987.ts
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://xxultraxx.com:8000/live/abc12345/abc12345/9986.ts
-#EXTINF:-1,CAN: APTN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9887.ts
-#EXTINF:-1,CAN: ARTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9886.ts
-#EXTINF:-1,CAN: BBC CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9885.ts
-#EXTINF:-1,CAN: BBC KIDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9884.ts
-#EXTINF:-1,CAN: BBC WORLD NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9931.ts
-#EXTINF:-1,CAN: BET
-http://xxultraxx.com:8000/live/abc12345/abc12345/9930.ts
-#EXTINF:-1,CAN: BNN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9883.ts
-#EXTINF:-1,CAN: BOOK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9929.ts
-#EXTINF:-1,CAN: CANAL D
-http://xxultraxx.com:8000/live/abc12345/abc12345/9910.ts
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9985.ts
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9928.ts
-#EXTINF:-1,CAN: CASA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9984.ts
-#EXTINF:-1,CAN: CBC MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9831.ts
-#EXTINF:-1,CAN: CBC NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9927.ts
-#EXTINF:-1,CAN: CBC OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9882.ts
-#EXTINF:-1,CAN: CBC TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9983.ts
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9881.ts
-#EXTINF:-1,CAN: CBS EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9880.ts
-#EXTINF:-1,CAN: CBS WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9879.ts
-#EXTINF:-1,CAN: CHCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9982.ts
-#EXTINF:-1,CAN: CINEPOP
-http://xxultraxx.com:8000/live/abc12345/abc12345/9878.ts
-#EXTINF:-1,CAN: CITY TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9877.ts
-#EXTINF:-1,CAN: CITY VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9909.ts
-#EXTINF:-1,CAN: CMT CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9926.ts
-#EXTINF:-1,CAN: CNBC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9876.ts
-#EXTINF:-1,CAN: CNN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9981.ts
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9875.ts
-#EXTINF:-1,CAN: COMEDY EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9830.ts
-#EXTINF:-1,CAN: COMEDY GOLD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9980.ts
-#EXTINF:-1,CAN: COOKING CHANNEL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9979.ts
-#EXTINF:-1,CAN: COSMO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9925.ts
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9924.ts
-#EXTINF:-1,CAN: CPAC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9978.ts
-#EXTINF:-1,CAN: CPAC FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9977.ts
-#EXTINF:-1,CAN: CTV 2 VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9976.ts
-#EXTINF:-1,CAN: CTV NEWS NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9975.ts
-#EXTINF:-1,CAN: CTV OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9974.ts
-#EXTINF:-1,CAN: CTV VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9814.ts
-#EXTINF:-1,CAN: CTV2 OTTAWA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9829.ts
-#EXTINF:-1,CAN: CW 11
-http://xxultraxx.com:8000/live/abc12345/abc12345/9973.ts
-#EXTINF:-1,CAN: DAYSTAR TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9972.ts
-#EXTINF:-1,CAN: DEJAVIEW
-http://xxultraxx.com:8000/live/abc12345/abc12345/9923.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9847.ts
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9845.ts
-#EXTINF:-1,CAN: DISNEY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9843.ts
-#EXTINF:-1,CAN: DISNEY CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9828.ts
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9971.ts
-#EXTINF:-1,CAN: DISNEY JR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9836.ts
-#EXTINF:-1,CAN: DIY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9874.ts
-#EXTINF:-1,CAN: DOCUMENTARY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9922.ts
-#EXTINF:-1,CAN: DTOUR
-http://xxultraxx.com:8000/live/abc12345/abc12345/9970.ts
-#EXTINF:-1,CAN: E!ntertenment
-http://xxultraxx.com:8000/live/abc12345/abc12345/9827.ts
-#EXTINF:-1,CAN: ENCORE 1 EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9969.ts
-#EXTINF:-1,CAN: ENCORE 2 EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9869.ts
-#EXTINF:-1,CAN: FAMILY CHRGD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9873.ts
-#EXTINF:-1,CAN: FAMILY EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9835.ts
-#EXTINF:-1,CAN: FOOD NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9968.ts
-#EXTINF:-1,CAN: FOX EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9868.ts
-#EXTINF:-1,CAN: FOX NEWS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9967.ts
-#EXTINF:-1,CAN: FRISIN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9840.ts
-#EXTINF:-1,CAN: FTV CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9867.ts
-#EXTINF:-1,CAN: FX CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9838.ts
-#EXTINF:-1,CAN: FX USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9842.ts
-#EXTINF:-1,CAN: FYI
-http://xxultraxx.com:8000/live/abc12345/abc12345/9966.ts
-#EXTINF:-1,CAN: Ginx Esports
-http://xxultraxx.com:8000/live/abc12345/abc12345/9826.ts
-#EXTINF:-1,CAN: GLOBAL TORONTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9965.ts
-#EXTINF:-1,CAN: GLOBAL VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9866.ts
-#EXTINF:-1,CAN: GOLF
-http://xxultraxx.com:8000/live/abc12345/abc12345/9921.ts
-#EXTINF:-1,CAN: GOLF HD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9809.ts
-#EXTINF:-1,CAN: GSN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9964.ts
-#EXTINF:-1,CAN: GUSTO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9872.ts
-#EXTINF:-1,CAN: H2 CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9863.ts
-#EXTINF:-1,CAN: HGTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9963.ts
-#EXTINF:-1,CAN: HISTORIO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9815.ts
-#EXTINF:-1,CAN: HISTORY
-http://xxultraxx.com:8000/live/abc12345/abc12345/9962.ts
-#EXTINF:-1,CAN: HLN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9871.ts
-#EXTINF:-1,CAN: ICI MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9813.ts
-#EXTINF:-1,CAN: ICI VANCOUVER
-http://xxultraxx.com:8000/live/abc12345/abc12345/9812.ts
-#EXTINF:-1,CAN: ID CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9912.ts
-#EXTINF:-1,CAN: IFC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9911.ts
-#EXTINF:-1,CAN: KNOWLEDGE KIDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9908.ts
-#EXTINF:-1,CAN: KTLA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9862.ts
-#EXTINF:-1,CAN: LCN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9907.ts
-#EXTINF:-1,CAN: LEAFS TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9816.ts
-#EXTINF:-1,CAN: LIFETIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9861.ts
-#EXTINF:-1,CAN: LOVE NATURE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9837.ts
-#EXTINF:-1,CAN: MAVTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9906.ts
-#EXTINF:-1,CAN: MAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/9825.ts
-#EXTINF:-1,CAN: METEO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9824.ts
-#EXTINF:-1,CAN: MIRACLE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9905.ts
-#EXTINF:-1,CAN: MOI CIE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9960.ts
-#EXTINF:-1,CAN: MSNBC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9841.ts
-#EXTINF:-1,CAN: MTIME
-http://xxultraxx.com:8000/live/abc12345/abc12345/9959.ts
-#EXTINF:-1,CAN: MTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9958.ts
-#EXTINF:-1,CAN: MUCH MUSIC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9870.ts
-#EXTINF:-1,CAN: MUSIQUE PLUS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9957.ts
-#EXTINF:-1,CAN: NAT GEO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9865.ts
-#EXTINF:-1,CAN: NBA TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9904.ts
-#EXTINF:-1,CAN: NBC WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9956.ts
-#EXTINF:-1,CAN: NICK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9955.ts
-#EXTINF:-1,CAN: NTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9903.ts
-#EXTINF:-1,CAN: OLN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9954.ts
-#EXTINF:-1,CAN: OMNI 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9953.ts
-#EXTINF:-1,CAN: OMNI 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9834.ts
-#EXTINF:-1,CAN: ONE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9823.ts
-#EXTINF:-1,CAN: OUTTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9952.ts
-#EXTINF:-1,CAN: OWN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9951.ts
-#EXTINF:-1,CAN: PRISE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9860.ts
-#EXTINF:-1,CAN: RDI
-http://xxultraxx.com:8000/live/abc12345/abc12345/9950.ts
-#EXTINF:-1,CAN: RDS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9859.ts
-#EXTINF:-1,CAN: RDS 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9822.ts
-#EXTINF:-1,CAN: SERIS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9858.ts
-#EXTINF:-1,CAN: SHOPPING
-http://xxultraxx.com:8000/live/abc12345/abc12345/9945.ts
-#EXTINF:-1,CAN: SHOWCASE EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9821.ts
-#EXTINF:-1,CAN: SILVER SCREEN CLASSICS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9902.ts
-#EXTINF:-1,CAN: SLICE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9857.ts
-#EXTINF:-1,CAN: SMITHSONIAN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9810.ts
-#EXTINF:-1,CAN: SPACE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9944.ts
-#EXTINF:-1,CAN: SPIKE TV / PARAMOUNT CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9817.ts
-#EXTINF:-1,CAN: SPIKE TV USA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9846.ts
-#EXTINF:-1,CAN: SPORTSNET 360
-http://xxultraxx.com:8000/live/abc12345/abc12345/9915.ts
-#EXTINF:-1,CAN: SPORTSNET EAST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9864.ts
-#EXTINF:-1,CAN: SPORTSNET ONE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9914.ts
-#EXTINF:-1,CAN: SPORTSNET ONTARIO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9913.ts
-#EXTINF:-1,CAN: SPORTSNET PACIFIC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9943.ts
-#EXTINF:-1,CAN: SPORTSNET WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/9901.ts
-#EXTINF:-1,CAN: SPORTSNET WORLD
-http://xxultraxx.com:8000/live/abc12345/abc12345/9942.ts
-#EXTINF:-1,CAN: SUNDANCE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9856.ts
-#EXTINF:-1,CAN: SUPER CHANNEL 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9941.ts
-#EXTINF:-1,CAN: SUPER CHANNEL 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9940.ts
-#EXTINF:-1,CAN: SUPER CHANNEL VAULT
-http://xxultraxx.com:8000/live/abc12345/abc12345/9900.ts
-#EXTINF:-1,CAN: SUPER ECRAN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9949.ts
-#EXTINF:-1,CAN: SUPER ECRAN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9948.ts
-#EXTINF:-1,CAN: SUPER ECRAN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9947.ts
-#EXTINF:-1,CAN: SUPER ECRAN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9946.ts
-#EXTINF:-1,CAN: TCM
-http://xxultraxx.com:8000/live/abc12345/abc12345/9939.ts
-#EXTINF:-1,CAN: TELE LATINO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9855.ts
-#EXTINF:-1,CAN: TELE QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9899.ts
-#EXTINF:-1,CAN: TELE TOON FRENCH
-http://xxultraxx.com:8000/live/abc12345/abc12345/9898.ts
-#EXTINF:-1,CAN: TELEMAGINO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9961.ts
-#EXTINF:-1,CAN: THE WEATHER NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9820.ts
-#EXTINF:-1,CAN: TMN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9854.ts
-#EXTINF:-1,CAN: TMN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9853.ts
-#EXTINF:-1,CAN: TMN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9839.ts
-#EXTINF:-1,CAN: TMN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9852.ts
-#EXTINF:-1,CAN: TSN 1
-http://xxultraxx.com:8000/live/abc12345/abc12345/9920.ts
-#EXTINF:-1,CAN: TSN 2
-http://xxultraxx.com:8000/live/abc12345/abc12345/9919.ts
-#EXTINF:-1,CAN: TSN 3
-http://xxultraxx.com:8000/live/abc12345/abc12345/9918.ts
-#EXTINF:-1,CAN: TSN 4
-http://xxultraxx.com:8000/live/abc12345/abc12345/9917.ts
-#EXTINF:-1,CAN: TSN 5
-http://xxultraxx.com:8000/live/abc12345/abc12345/9916.ts
-#EXTINF:-1,CAN: TV5 QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9819.ts
-#EXTINF:-1,CAN: TVA GATINEAU
-http://xxultraxx.com:8000/live/abc12345/abc12345/9851.ts
-#EXTINF:-1,CAN: TVA MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9897.ts
-#EXTINF:-1,CAN: TVA QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/9938.ts
-#EXTINF:-1,CAN: TVA SPORTS
-http://xxultraxx.com:8000/live/abc12345/abc12345/9937.ts
-#EXTINF:-1,CAN: TVO
-http://xxultraxx.com:8000/live/abc12345/abc12345/9818.ts
-#EXTINF:-1,CAN: UNIVISION CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9811.ts
-#EXTINF:-1,CAN: V MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/9896.ts
-#EXTINF:-1,CAN: VICELAND
-http://xxultraxx.com:8000/live/abc12345/abc12345/9850.ts
-#EXTINF:-1,CAN: VIE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9895.ts
-#EXTINF:-1,CAN: VISION
-http://xxultraxx.com:8000/live/abc12345/abc12345/9936.ts
-#EXTINF:-1,CAN: VRAK TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9935.ts
-#EXTINF:-1,CAN: W NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/9894.ts
-#EXTINF:-1,CAN: WFN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9893.ts
-#EXTINF:-1,CAN: WGN
-http://xxultraxx.com:8000/live/abc12345/abc12345/9892.ts
-#EXTINF:-1,CAN: Wild TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9891.ts
-#EXTINF:-1,CAN: YOOPA
-http://xxultraxx.com:8000/live/abc12345/abc12345/9849.ts
-#EXTINF:-1,CAN: YTV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9890.ts
-#EXTINF:-1,CAN: Z TELE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9934.ts
-#EXTINF:-1,CAN: ZEE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/9933.ts
-#EXTINF:-1,CAN: ZESTE
-http://xxultraxx.com:8000/live/abc12345/abc12345/9848.ts
-#EXTINF:-1,CAN: CITY MONTREAL
-http://xxultraxx.com:8000/live/abc12345/abc12345/10270.ts
-#EXTINF:-1,CAN: COMEDY WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/10271.ts
-#EXTINF:-1,CAN: CTV HALIFAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/10266.ts
-#EXTINF:-1,CAN: GLOBAL HALIFAX
-http://xxultraxx.com:8000/live/abc12345/abc12345/10265.ts
-#EXTINF:-1,CAN: HOPE TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10264.ts
-#EXTINF:-1,CAN: JOY TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10263.ts
-#EXTINF:-1,CAN: MAKEFUL
-http://xxultraxx.com:8000/live/abc12345/abc12345/10269.ts
-#EXTINF:-1,CAN: MLB NETWORK
-http://xxultraxx.com:8000/live/abc12345/abc12345/10267.ts
-#EXTINF:-1,CAN: RDS INFO
-http://xxultraxx.com:8000/live/abc12345/abc12345/10272.ts
-#EXTINF:-1,CAN: TELE TOON WEST
-http://xxultraxx.com:8000/live/abc12345/abc12345/10274.ts
-#EXTINF:-1,CAN: TFO
-http://xxultraxx.com:8000/live/abc12345/abc12345/10273.ts
-#EXTINF:-1,CAN: TLC CANADA
-http://xxultraxx.com:8000/live/abc12345/abc12345/10268.ts
-#EXTINF:-1,CAN: UNIS TV
-http://xxultraxx.com:8000/live/abc12345/abc12345/10261.ts
-#EXTINF:-1,CAN: V QUEBEC
-http://xxultraxx.com:8000/live/abc12345/abc12345/10262.ts
-#EXTINF:-1,CA: HBO
-http://xxultraxx.com:80/live/sumsum/sumsum/7635.ts
-#EXTINF:-1,CA: HBO COMEDY HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9349.ts
-#EXTINF:-1,CA: HBO FAMILY HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9351.ts
-#EXTINF:-1,CA: HBO SIGNATURE HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9350.ts
-#EXTINF:-1,CA: HBO ZONE
-http://xxultraxx.com:80/live/sumsum/sumsum/7633.ts
-#EXTINF:-1,CA: HGTV
-http://xxultraxx.com:80/live/sumsum/sumsum/7649.ts
-#EXTINF:-1,CA: HSN
-http://xxultraxx.com:80/live/sumsum/sumsum/7618.ts
-#EXTINF:-1,CA: ID
-http://xxultraxx.com:80/live/sumsum/sumsum/7662.ts
-#EXTINF:-1,CA: LIFETIME HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9363.ts
-#EXTINF:-1,CA: National_Geographie
-http://xxultraxx.com:80/live/sumsum/sumsum/7623.ts
-#EXTINF:-1,CA: NBC_Golf
-http://xxultraxx.com:80/live/sumsum/sumsum/7629.ts
-#EXTINF:-1,CA: NFL_Network
-http://xxultraxx.com:80/live/sumsum/sumsum/7643.ts
-#EXTINF:-1,CA: SPIKE
-http://xxultraxx.com:80/live/sumsum/sumsum/7647.ts
-#EXTINF:-1,CA: TBS
-http://xxultraxx.com:80/live/sumsum/sumsum/7658.ts
-#EXTINF:-1,CA: TNT
-http://xxultraxx.com:80/live/sumsum/sumsum/7660.ts
-#EXTINF:-1,CA: CNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9338.ts
-#EXTINF:-1,CA: UNIVISION HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9342.ts
-#EXTINF:-1,CA: CINEMAX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9992.ts
-#EXTINF:-1,CA: FX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9991.ts
-#EXTINF:-1,CA: FXM HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9989.ts
-#EXTINF:-1,CA: FXX HD
-http://xxultraxx.com:80/live/sumsum/sumsum/9990.ts
-#EXTINF:-1,CA: WWE
-http://xxultraxx.com:80/live/sumsum/sumsum/7651.ts
-#EXTINF:-1,CAN: CP24
-http://xxultraxx.com:80/live/sumsum/sumsum/9347.ts
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://xxultraxx.com:80/live/sumsum/sumsum/9346.ts
-#EXTINF:-1,CAN: DISCOVERY CHANNEL
-http://xxultraxx.com:80/live/sumsum/sumsum/9344.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE
-http://xxultraxx.com:80/live/sumsum/sumsum/9343.ts
-#EXTINF:-1,CAN: FAMILY WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9341.ts
-#EXTINF:-1,CAN: FIGHT NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9340.ts
-#EXTINF:-1,CAN: BRAVO
-http://xxultraxx.com:80/live/sumsum/sumsum/9348.ts
-#EXTINF:-1,CAN: FOX-W
-http://xxultraxx.com:80/live/sumsum/sumsum/9339.ts
-#EXTINF:-1,CAN: GAME TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9337.ts
-#EXTINF:-1,CAN: Hallmark
-http://xxultraxx.com:80/live/sumsum/sumsum/9361.ts
-#EXTINF:-1,CAN: HBO
-http://xxultraxx.com:80/live/sumsum/sumsum/9336.ts
-#EXTINF:-1,CAN: HBO 2
-http://xxultraxx.com:80/live/sumsum/sumsum/9335.ts
-#EXTINF:-1,CAN: NBC EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9324.ts
-#EXTINF:-1,CAN: PBS-W
-http://xxultraxx.com:80/live/sumsum/sumsum/9334.ts
-#EXTINF:-1,CAN: SHOWTIME
-http://xxultraxx.com:80/live/sumsum/sumsum/9332.ts
-#EXTINF:-1,CAN: TELETOON EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9330.ts
-#EXTINF:-1,CAN: TLC
-http://xxultraxx.com:80/live/sumsum/sumsum/9331.ts
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://xxultraxx.com:80/live/sumsum/sumsum/9329.ts
-#EXTINF:-1,CAN: WSBK
-http://xxultraxx.com:80/live/sumsum/sumsum/9327.ts
-#EXTINF:-1,CAN: CTV
-http://xxultraxx.com:80/live/sumsum/sumsum/9345.ts
-#EXTINF:-1,CAN: PEACH TREE TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9333.ts
-#EXTINF:-1,CAN: TREEHOUSE TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9328.ts
-#EXTINF:-1,CAN: YES
-http://xxultraxx.com:80/live/sumsum/sumsum/9326.ts
-#EXTINF:-1,CAN: YTV-E
-http://xxultraxx.com:80/live/sumsum/sumsum/9325.ts
-#EXTINF:-1,CAN: ABC EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9932.ts
-#EXTINF:-1,CAN: ABC SPARK CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9844.ts
-#EXTINF:-1,CAN: ABC WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9988.ts
-#EXTINF:-1,CAN: ACTION
-http://xxultraxx.com:80/live/sumsum/sumsum/9889.ts
-#EXTINF:-1,CAN: ADDIK TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9888.ts
-#EXTINF:-1,CAN: AHC
-http://xxultraxx.com:80/live/sumsum/sumsum/9832.ts
-#EXTINF:-1,CAN: AMC
-http://xxultraxx.com:80/live/sumsum/sumsum/9987.ts
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://xxultraxx.com:80/live/sumsum/sumsum/9986.ts
-#EXTINF:-1,CAN: APTN
-http://xxultraxx.com:80/live/sumsum/sumsum/9887.ts
-#EXTINF:-1,CAN: ARTV
-http://xxultraxx.com:80/live/sumsum/sumsum/9886.ts
-#EXTINF:-1,CAN: BBC CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9885.ts
-#EXTINF:-1,CAN: BBC KIDS
-http://xxultraxx.com:80/live/sumsum/sumsum/9884.ts
-#EXTINF:-1,CAN: BBC WORLD NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9931.ts
-#EXTINF:-1,CAN: BET
-http://xxultraxx.com:80/live/sumsum/sumsum/9930.ts
-#EXTINF:-1,CAN: BNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9883.ts
-#EXTINF:-1,CAN: BOOK TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9929.ts
-#EXTINF:-1,CAN: CANAL D
-http://xxultraxx.com:80/live/sumsum/sumsum/9910.ts
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://xxultraxx.com:80/live/sumsum/sumsum/9985.ts
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9928.ts
-#EXTINF:-1,CAN: CASA
-http://xxultraxx.com:80/live/sumsum/sumsum/9984.ts
-#EXTINF:-1,CAN: CBC MONTREAL
-http://xxultraxx.com:80/live/sumsum/sumsum/9831.ts
-#EXTINF:-1,CAN: CBC NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9927.ts
-#EXTINF:-1,CAN: CBC OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9882.ts
-#EXTINF:-1,CAN: CBC TORONTO
-http://xxultraxx.com:80/live/sumsum/sumsum/9983.ts
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9881.ts
-#EXTINF:-1,CAN: CBS EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9880.ts
-#EXTINF:-1,CAN: CBS WEST
-http://xxultraxx.com:80/live/sumsum/sumsum/9879.ts
-#EXTINF:-1,CAN: CHCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9982.ts
-#EXTINF:-1,CAN: CINEPOP
-http://xxultraxx.com:80/live/sumsum/sumsum/9878.ts
-#EXTINF:-1,CAN: CITY TORONTO
-http://xxultraxx.com:80/live/sumsum/sumsum/9877.ts
-#EXTINF:-1,CAN: CITY VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9909.ts
-#EXTINF:-1,CAN: CMT CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9926.ts
-#EXTINF:-1,CAN: CNBC
-http://xxultraxx.com:80/live/sumsum/sumsum/9876.ts
-#EXTINF:-1,CAN: CNN
-http://xxultraxx.com:80/live/sumsum/sumsum/9981.ts
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://xxultraxx.com:80/live/sumsum/sumsum/9875.ts
-#EXTINF:-1,CAN: COMEDY EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9830.ts
-#EXTINF:-1,CAN: COMEDY GOLD
-http://xxultraxx.com:80/live/sumsum/sumsum/9980.ts
-#EXTINF:-1,CAN: COOKING CHANNEL
-http://xxultraxx.com:80/live/sumsum/sumsum/9979.ts
-#EXTINF:-1,CAN: COSMO
-http://xxultraxx.com:80/live/sumsum/sumsum/9925.ts
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://xxultraxx.com:80/live/sumsum/sumsum/9924.ts
-#EXTINF:-1,CAN: CPAC
-http://xxultraxx.com:80/live/sumsum/sumsum/9978.ts
-#EXTINF:-1,CAN: CPAC FRENCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9977.ts
-#EXTINF:-1,CAN: CTV 2 VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9976.ts
-#EXTINF:-1,CAN: CTV NEWS NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9975.ts
-#EXTINF:-1,CAN: CTV OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9974.ts
-#EXTINF:-1,CAN: CTV VANCOUVER
-http://xxultraxx.com:80/live/sumsum/sumsum/9814.ts
-#EXTINF:-1,CAN: CTV2 OTTAWA
-http://xxultraxx.com:80/live/sumsum/sumsum/9829.ts
-#EXTINF:-1,CAN: CW 11
-http://xxultraxx.com:80/live/sumsum/sumsum/9973.ts
-#EXTINF:-1,CAN: DAYSTAR TV
-http://xxultraxx.com:80/live/sumsum/sumsum/9972.ts
-#EXTINF:-1,CAN: DEJAVIEW
-http://xxultraxx.com:80/live/sumsum/sumsum/9923.ts
-#EXTINF:-1,CAN: DISCOVERY SCIENCE USA
-http://xxultraxx.com:80/live/sumsum/sumsum/9847.ts
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://xxultraxx.com:80/live/sumsum/sumsum/9845.ts
-#EXTINF:-1,CAN: DISNEY
-http://xxultraxx.com:80/live/sumsum/sumsum/9843.ts
-#EXTINF:-1,CAN: DISNEY CANADA
-http://xxultraxx.com:80/live/sumsum/sumsum/9828.ts
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://xxultraxx.com:80/live/sumsum/sumsum/9971.ts
-#EXTINF:-1,CAN: DISNEY JR
-http://xxultraxx.com:80/live/sumsum/sumsum/9836.ts
-#EXTINF:-1,CAN: DIY
-http://xxultraxx.com:80/live/sumsum/sumsum/9874.ts
-#EXTINF:-1,CAN: DOCUMENTARY
-http://xxultraxx.com:80/live/sumsum/sumsum/9922.ts
-#EXTINF:-1,CAN: DTOUR
-http://xxultraxx.com:80/live/sumsum/sumsum/9970.ts
-#EXTINF:-1,CAN: E!ntertenment
-http://xxultraxx.com:80/live/sumsum/sumsum/9827.ts
-#EXTINF:-1,CAN: ENCORE 1 EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9969.ts
-#EXTINF:-1,CAN: ENCORE 2 EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9869.ts
-#EXTINF:-1,CAN: FAMILY CHRGD
-http://xxultraxx.com:80/live/sumsum/sumsum/9873.ts
-#EXTINF:-1,CAN: FAMILY EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9835.ts
-#EXTINF:-1,CAN: FOOD NETWORK
-http://xxultraxx.com:80/live/sumsum/sumsum/9968.ts
-#EXTINF:-1,CAN: FOX EAST
-http://xxultraxx.com:80/live/sumsum/sumsum/9868.ts
-#EXTINF:-1,CAN: FOX NEWS
-http://xxultraxx.com:80/live/sumsum/sumsum/9967.ts
-#EXTM3U
-#EXTINF:-1,FR: BEIN SPORT 1
-http://tv.megaseedbox.com:8000/live/mega31540/plus/552.ts
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://tv.megaseedbox.com:8000/live/mega31540/plus/593.ts
-#EXTINF:-1,FR: BEIN SPORT 3
-http://tv.megaseedbox.com:8000/live/mega31540/plus/1021.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-http://tv.megaseedbox.com:8000/live/mega31540/plus/3123.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 5
-http://tv.megaseedbox.com:8000/live/mega31540/plus/3124.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-http://tv.megaseedbox.com:8000/live/mega31540/plus/3125.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 7
-http://tv.megaseedbox.com:8000/live/mega31540/plus/3126.ts
-#EXTINF:-1,FR: CANAL+ SPORT FHD
-http://tv.megaseedbox.com:8000/live/mega31540/plus/521.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (1)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/2447.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (2)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/753.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (3)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/1800.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (4)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/1799.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (5)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/1801.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (6)
-http://tv.megaseedbox.com:8000/live/mega31540/plus/5635.ts
-#EXTINF:-1,ES: BEIN SPORT HD
-http://tv.megaseedbox.com:8000/live/mega31540/plus/280.ts
-#EXTINF:-1,ES: BEIN LA LIGA HD
-http://tv.megaseedbox.com:8000/live/mega31540/plus/3752.ts
-#EXTINF:-1,ES: MOVISTAR+ FUTBOL
-http://tv.megaseedbox.com:8000/live/mega31540/plus/284.ts
-#EXTINF:-1,ES: CANAL LA LIGA TV
-http://tv.megaseedbox.com:8000/live/mega31540/plus/518.ts
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1
-http://tv.megaseedbox.com:8000/live/mega31540/plus/613.ts
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2
-http://tv.megaseedbox.com:8000/live/mega31540/plus/532.ts
-
-#EXTINF:-1,CH: Teleclub Sport 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1514.ts
-#EXTINF:-1,CH: Teleclub Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1513.ts
-#EXTINF:-1,CH: Teleclub Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1512.ts
-#EXTINF:-1,EXYU: EUROSPORT 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1076.ts
-#EXTINF:-1,EXYU: EUROSPORT 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1075.ts
-#EXTINF:-1,AL: Super Sport Kosova 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1079.ts
-#EXTINF:-1,AL: Super Sport Kosova 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1080.ts
-#EXTINF:-1,AL: SuperSport 4
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/510.ts
-#EXTINF:-1,AL: SuperSport 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/509.ts
-#EXTINF:-1,AL: SuperSport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/508.ts
-#EXTINF:-1,AL: SuperSport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/507.ts
-#EXTINF:-1,AL: Super Sport 6
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1077.ts
-#EXTINF:-1,AL: Super Sport 5
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1078.ts
-#EXTINF:-1,AL: Tring Sport News
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/801.ts
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1326.ts
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1325.ts
-#EXTINF:-1,AL: Tring Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/803.ts
-#EXTINF:-1,AL: Tring Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/802.ts
-#EXTINF:-1,HR: Arena Sport 5
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/506.ts
-#EXTINF:-1,HR: Arena Sport 4
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/505.ts
-#EXTINF:-1,HR: Arena Sport 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/504.ts
-#EXTINF:-1,HR: Arena Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/503.ts
-#EXTINF:-1,HR: Arena Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/502.ts
-#EXTINF:-1,HR: Sport Klub 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/501.ts
-#EXTINF:-1,HR: Sport Klub 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/500.ts
-#EXTINF:-1,HR: Sport Klub 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/499.ts
-#EXTINF:-1,SR: Arena Sport 4
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1071.ts
-#EXTINF:-1,SR: Arena Sport 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1072.ts
-#EXTINF:-1,SR: Arena Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1073.ts
-#EXTINF:-1,SR: Arena Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1074.ts
-#EXTINF:-1,DE: Sport1 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/484.ts
-#EXTINF:-1,DE: SKY Sport News
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/790.ts
-#EXTINF:-1,DE: SKY Sport HD 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/497.ts
-#EXTINF:-1,DE: SKY Sport HD 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/496.ts
-#EXTINF:-1,DE: SKY Sport Austria
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/791.ts
-#EXTINF:-1,DE: BUNDESLIGA 1 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/498.ts
-#EXTINF:-1,DE: Eurosport Deutschland
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/452.ts
-#EXTINF:-1,DE: SPORTDIGITAL
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1159.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/478.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/459.ts
+ #EXTM3U
+#EXTINF:-1,UK: 3e
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7969.ts
+#EXTINF:-1,UK: 5USA
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8043.ts
+#EXTINF:-1,UK: Alibi HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7982.ts
+#EXTINF:-1,UK: Animal Planet
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8044.ts
+#EXTINF:-1,UK: At The Races UK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7983.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8045.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8046.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7984.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7985.ts
+#EXTINF:-1,UK: BBC News
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8047.ts
+#EXTINF:-1,UK: Box Nation HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8048.ts
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8017.ts
+#EXTINF:-1,UK: CBS Action
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8049.ts
+#EXTINF:-1,UK: CBS Drama
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8050.ts
+#EXTINF:-1,UK: CBS Reality
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8007.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7988.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8018.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8025.ts
+#EXTINF:-1,UK: COLORS
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8051.ts
+#EXTINF:-1,UK: Comedy Central
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8092.ts
+#EXTINF:-1,UK: Dave HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7989.ts
+#EXTINF:-1,UK: Discovery HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7990.ts
+#EXTINF:-1,UK: Discovery History
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8093.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7991.ts
+#EXTINF:-1,UK: Discovery Science
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8052.ts
+#EXTINF:-1,UK: Disney Chaneel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8053.ts
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8054.ts
+#EXTINF:-1,UK: Disney Junior
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7977.ts
+#EXTINF:-1,UK: Disney XD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7976.ts
+#EXTINF:-1,UK: DMAX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8080.ts
+#EXTINF:-1,UK: E!
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7968.ts
+#EXTINF:-1,UK: E4 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7992.ts
+#EXTINF:-1,UK: ESPN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8055.ts
+#EXTINF:-1,UK: Film 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8057.ts
+#EXTINF:-1,UK: Film 4 UK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7993.ts
+#EXTINF:-1,UK: Five
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8058.ts
+#EXTINF:-1,UK: Five UK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7994.ts
+#EXTINF:-1,UK: Food Network
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8089.ts
+#EXTINF:-1,UK: GOLD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8081.ts
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8059.ts
+#EXTINF:-1,UK: Horror Channel
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8088.ts
+#EXTINF:-1,UK: ITV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8019.ts
+#EXTINF:-1,UK: ITV 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8020.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8060.ts
+#EXTINF:-1,UK: ITV 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8021.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7995.ts
+#EXTINF:-1,UK: ITV 3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8022.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7996.ts
+#EXTINF:-1,UK: ITV 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8023.ts
+#EXTINF:-1,UK: LIVERPOOL FC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8082.ts
+#EXTINF:-1,UK: Living UK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7997.ts
+#EXTINF:-1,UK: More 4 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8061.ts
 #EXTINF:-1,UK: Motors TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1147.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/458.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/457.ts
-#EXTINF:-1,UK: Sky Sports Action
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/456.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/455.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/454.ts
-#EXTINF:-1,UK: Racing UK
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/476.ts
-#EXTINF:-1,UK: Premier Sports
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/453.ts
-#EXTINF:-1,UK: BT Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/461.ts
-#EXTINF:-1,UK: BT Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/460.ts
-#EXTINF:-1,UK: BT Sport 3 Full HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1148.ts
-#EXTINF:-1,UK: BT SPORT ESPN
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/467.ts
-#EXTINF:-1,UK: British Eurosport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/481.ts
-#EXTINF:-1,UK: British Eurosport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/480.ts
-#EXTINF:-1,UK: BoxNation
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/482.ts
-#EXTINF:-1,UK: At The Races
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/477.ts
-#EXTINF:-1,UK: Chelsea TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/479.ts
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7964.ts
+#EXTINF:-1,UK: MTV dance
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7999.ts
+#EXTINF:-1,UK: MTV HITS
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8062.ts
+#EXTINF:-1,UK: MU TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8063.ts
 #EXTINF:-1,UK: MUTV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/466.ts
-#EXTINF:-1,UK: LFC TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1146.ts
-#EXTINF:-1,UK: Setanta UK
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/468.ts
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8064.ts
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8065.ts
+#EXTINF:-1,UK: National Geographic HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8000.ts
+#EXTINF:-1,UK: National Geographic Wild
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8042.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8066.ts
+#EXTINF:-1,UK: Nickelodeon
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8067.ts
+#EXTINF:-1,UK: NICKTOONS
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8083.ts
+#EXTINF:-1,UK: Pick
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8001.ts
+#EXTINF:-1,UK: Racing UK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8003.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8004.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8068.ts
 #EXTINF:-1,UK: Setanta Ireland
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/463.ts
-#EXTINF:-1,US: FOX Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/471.ts
-#EXTINF:-1,US: FOX Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/470.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1134.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1133.ts
-#EXTINF:-1,IT: Rai Sport+ HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/531.ts
-#EXTINF:-1,IT: Rai Sport
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/530.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1100.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/475.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/474.ts
-#EXTINF:-1,RO: Digi Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/473.ts
-#EXTINF:-1,RO: Dolce Sport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1102.ts
-#EXTINF:-1,RO: Dolce Sport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1101.ts
-#EXTINF:-1,PT: Sport TV 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/495.ts
-#EXTINF:-1,PT: Sport TV 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/494.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1099.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1098.ts
-#EXTINF:-1,PT: SPORT TV 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1097.ts
-#EXTINF:-1,PT: SPORTING TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1162.ts
-#EXTINF:-1,PT: SPORT TV+
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1199.ts
-#EXTINF:-1,PT: Benfica TV 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1198.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1160.ts
-#EXTINF:-1,PT: EUROSPORT 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1161.ts
-#EXTINF:-1,ES: La Liga TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/488.ts
-#EXTINF:-1,ES: BeIn Sports LaLiga
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1496.ts
-#EXTINF:-1,ES: Canal+ Golf
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/489.ts
-#EXTINF:-1,ES: Canal+ Futbol
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/487.ts
-#EXTINF:-1,ES: Canal+ Deportes
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/490.ts
-#EXTINF:-1,ES: Movistar F1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/548.ts
-#EXTINF:-1,ES: Real Madrid TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1492.ts
-#EXTINF:-1,ES: Canal+  Deportes 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/2631.ts
-#EXTINF:-1,ES: Eurosport 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/2804.ts
-#EXTINF:-1,ES: Gol TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/2632.ts
-#EXTINF:-1,ES: Movistar Moto GP HD
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/2803.ts
-#EXTINF:-1,ES: Eurosport
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1495.ts
-#EXTINF:-1,ES: BeIn Sports Espana
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1497.ts
-#EXTINF:-1,ES: Canal + Toros
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1494.ts
-#EXTINF:-1,ES: Barca TV
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1493.ts
-#EXTINF:-1,FR: Eurosport 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/797.ts
-#EXTINF:-1,FR: Canal + Sport France
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/485.ts
-#EXTINF:-1,FR: BeIn Sports 1
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/492.ts
-#EXTINF:-1,FR: BeIn Sports 3
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/528.ts
-#EXTINF:-1,FR: BeIn Sports 2
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/493.ts
-#EXTINF:-1,FR: Infosport
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1090.ts
-#EXTINF:-1,FR: Foot  24
-http://xtv.satarabia.com:80/live/euroiptv/euroiptv/1091.ts
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8005.ts
+#EXTINF:-1,UK: TG4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7973.ts
+#EXTINF:-1,UK: Travel
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8015.ts
+#EXTINF:-1,UK: TV3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7970.ts
+#EXTINF:-1,UK: Universal
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7971.ts
+#EXTINF:-1,UK: VH1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8087.ts
+#EXTINF:-1,UK: W
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7972.ts
+#EXTM3U
+#EXTINF:-1,USA: Bein Sports HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7900.ts
+#EXTINF:-1,USA: Bein Sports USA:A HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7912.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7892.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7931.ts
+#EXTINF:-1,USA: FOX Sport 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7932.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7879.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7905.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7878.ts
+#EXTINF:-1,USA: Fox Sports West
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7877.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7864.ts
+#EXTINF:-1,USA: Sports Net 360 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7854.ts
+#EXTINF:-1,USA: Sports Net One HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7853.ts
+#EXTINF:-1,USA: Sports Net Ontario HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7852.ts
+#EXTINF:-1,USA: Sports Net Pacific HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7851.ts
+#EXTINF:-1,USA: Sports Net West HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7850.ts
+#EXTINF:-1,USA: Sports Net World HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7849.ts
+#EXTINF:-1,USA: Sportsnet One HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7954.ts
+#EXTINF:-1,USA: HBO East HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7906.ts
+#EXTINF:-1,USA: HBO Zone HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7907.ts
+#EXTINF:-1,USA: A&E TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7908.ts
+#EXTINF:-1,USA: ABC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7904.ts
+#EXTINF:-1,USA: ABC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7909.ts
+#EXTINF:-1,USA: ABC News
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7903.ts
+#EXTINF:-1,USA: Action Max HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7902.ts
+#EXTINF:-1,USA: AMC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7910.ts
+#EXTINF:-1,USA: Animal Planet
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7901.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7911.ts
+#EXTINF:-1,USA: Bloomberg
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7899.ts
+#EXTINF:-1,USA: Bravo
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7913.ts
+#EXTINF:-1,USA: BRAVO HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7914.ts
+#EXTINF:-1,USA: CAN: TSN 3 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7896.ts
+#EXTINF:-1,USA: CBS HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7915.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7916.ts
+#EXTINF:-1,USA: Cinemax ActionMax East
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7917.ts
+#EXTINF:-1,USA: Cinemax East
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7918.ts
+#EXTINF:-1,USA: Cinemax HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7891.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7919.ts
+#EXTINF:-1,USA: CNBC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7890.ts
+#EXTINF:-1,USA: CNN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7920.ts
+#EXTINF:-1,USA: Comedy Central
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7889.ts
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7921.ts
+#EXTINF:-1,USA: CW HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7922.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7923.ts
+#EXTINF:-1,USA: Discovery HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7888.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7924.ts
+#EXTINF:-1,USA: DIY Network
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7925.ts
+#EXTINF:-1,USA: E!
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7887.ts
+#EXTINF:-1,USA: ESPN
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7926.ts
+#EXTINF:-1,USA: ESPN 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7927.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7886.ts
+#EXTINF:-1,USA: ESPN Deportes
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7885.ts
+#EXTINF:-1,USA: ESPN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7928.ts
+#EXTINF:-1,USA: ESPN News HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7884.ts
+#EXTINF:-1,USA: ESPN U HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7883.ts
+#EXTINF:-1,USA: ESPN USA HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7882.ts
+#EXTINF:-1,USA: Fight Network
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7881.ts
+#EXTINF:-1,USA: Food Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7929.ts
+#EXTINF:-1,USA: Fox HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7880.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7930.ts
+#EXTINF:-1,USA: FOXX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7933.ts
+#EXTINF:-1,USA: FreeRom HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7934.ts
+#EXTINF:-1,USA: FX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7876.ts
+#EXTINF:-1,USA: FX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7935.ts
+#EXTINF:-1,USA: FXX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7875.ts
+#EXTINF:-1,USA: Golf HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7874.ts
+#EXTINF:-1,USA: H2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7936.ts
+#EXTINF:-1,USA: HALLMARK
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7937.ts
+#EXTINF:-1,USA: HBO
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7938.ts
+#EXTINF:-1,USA: HBO Comedy
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7873.ts
+#EXTINF:-1,USA: HBO Family HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7939.ts
+#EXTINF:-1,USA: HBO PlUSA:
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7940.ts
+#EXTINF:-1,USA: HBO Signature
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7872.ts
+#EXTINF:-1,USA: HBO Zone
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7871.ts
+#EXTINF:-1,USA: HGTV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7870.ts
+#EXTINF:-1,USA: HIFI
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7941.ts
+#EXTINF:-1,USA: HISTORY
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7942.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7943.ts
+#EXTINF:-1,USA: Investigation Discovery HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7869.ts
+#EXTINF:-1,USA: LIFE TIME
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7944.ts
+#EXTINF:-1,USA: MLB Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7868.ts
+#EXTINF:-1,USA: MoreMax HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7867.ts
+#EXTINF:-1,USA: National Geographic
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7946.ts
+#EXTINF:-1,USA: NATIONAL GEOOGRAPHIC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7945.ts
+#EXTINF:-1,USA: NBA HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7866.ts
+#EXTINF:-1,USA: NBC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7865.ts
+#EXTINF:-1,USA: NFL Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7863.ts
+#EXTINF:-1,USA: NFL Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7947.ts
+#EXTINF:-1,USA: NHL Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7862.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7948.ts
+#EXTINF:-1,USA: Nickelodeon HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7861.ts
+#EXTINF:-1,USA: PAC-12 Arizona HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7860.ts
+#EXTINF:-1,USA: PAC-12 Bay Area HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7859.ts
+#EXTINF:-1,USA: PAC-12 Los Angeles HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7858.ts
+#EXTINF:-1,USA: PAC-12 Mountain HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7857.ts
+#EXTINF:-1,USA: PAC-12 Oregon HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7856.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7855.ts
+#EXTINF:-1,USA: ShowTime
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7949.ts
+#EXTINF:-1,USA: Showtime Extreme
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7950.ts
+#EXTINF:-1,USA: Showtime Next
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7951.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7952.ts
+#EXTINF:-1,USA: SPIKE HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7953.ts
+#EXTINF:-1,USA: Starz Cinema HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7955.ts
+#EXTINF:-1,USA: Starz Comedy
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7956.ts
+#EXTINF:-1,USA: STARZ EDGE HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7957.ts
+#EXTINF:-1,USA: Starz HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7848.ts
+#EXTINF:-1,USA: SYFY HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7958.ts
+#EXTINF:-1,USA: TBS HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7959.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7847.ts
+#EXTINF:-1,USA: TLC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7846.ts
+#EXTINF:-1,USA: TNT HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7845.ts
+#EXTINF:-1,USA: Univision Deportes
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7844.ts
+#EXTINF:-1,USA: USA NETWORK HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7843.ts
+#EXTINF:-1,USA: USA: A&E
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7842.ts
+#EXTINF:-1,USA: USA:A Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7960.ts
+#EXTINF:-1,USA: Viceland
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7841.ts
+#EXTINF:-1,USA: Willow Cricket HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7840.ts
+#EXTINF:-1,USA: WWE HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7961.ts
+#EXTINF:-1,USA: WWE Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7839.ts
 
-#EXTINF:-1,beIN SPORTS MAX 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22157.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/22158.ts
-#EXTINF:-1,beIN SPORTS MAX 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/22159.ts
-#EXTINF:-1,beIN SPORTS MAX 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22160.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/22161.ts
-#EXTINF:-1,beIN SPORTS MAX 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/22162.ts
-#EXTINF:-1,beIN SPORTS MAX 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22163.ts
-#EXTINF:-1,beIN SPORTS MAX 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/22164.ts
-#EXTINF:-1,beIN SPORTS MAX 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/22165.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22166.ts
-#EXTINF:-1,beIN SPORTS MAX 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/22167.ts
-#EXTINF:-1,beIN SPORTS MAX 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/22168.ts
-#EXTINF:-1,OSN WWE Network HD AE
-http://clientportal.link:80/live/Petko/123456/16403.ts
-#EXTINF:-1,SuperSport 1 HD AL
-http://clientportal.link:80/live/Petko/123456/4198.ts
-#EXTINF:-1,SuperSport 2 HD AL
-http://clientportal.link:80/live/Petko/123456/4199.ts
-#EXTINF:-1,SuperSport 3 HD AL
-http://clientportal.link:80/live/Petko/123456/4200.ts
-#EXTINF:-1,SuperSport 4 HD AL
-http://clientportal.link:80/live/Petko/123456/4201.ts
-#EXTINF:-1,SuperSport 5 HD AL
-http://clientportal.link:80/live/Petko/123456/9373.ts
-#EXTINF:-1,SuperSport Kosova 1 AL
-http://clientportal.link:80/live/Petko/123456/3822.ts
-#EXTINF:-1,SuperSport Kosova 2 AL
-http://clientportal.link:80/live/Petko/123456/3823.ts
-#EXTINF:-1,Tring Sport News HD AL
-http://clientportal.link:80/live/Petko/123456/8077.ts
-#EXTINF:-1,SuperSport 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22807.ts
-#EXTINF:-1,SuperSport 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22808.ts
-#EXTINF:-1,SuperSport 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22809.ts
-#EXTINF:-1,SuperSport 4 FHD AL
-http://clientportal.link:80/live/Petko/123456/22810.ts
-#EXTINF:-1,SuperSport 5 FHD AL
-http://clientportal.link:80/live/Petko/123456/22811.ts
-#EXTINF:-1,SuperSport 6 FHD AL
-http://clientportal.link:80/live/Petko/123456/22812.ts
-#EXTINF:-1,SuperSport 7 FHD AL
-http://clientportal.link:80/live/Petko/123456/22813.ts
-#EXTINF:-1,SuperSport Kosova 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22804.ts
-#EXTINF:-1,SuperSport Kosova 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22805.ts
-#EXTINF:-1,SuperSport Kosova 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22806.ts
-#EXTINF:-1,OSN Sports Cricket HD AE
-http://clientportal.link:80/live/Petko/123456/19957.ts
-#EXTINF:-1,OSN Sports 1 Action HD AE
-http://clientportal.link:80/live/Petko/123456/13728.ts
-#EXTINF:-1,OSN Sports 2 Action HD AE
-http://clientportal.link:80/live/Petko/123456/13729.ts
-#EXTINF:-1,beIN SPORTS 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18277.ts
-#EXTINF:-1,beIN SPORTS 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/14980.ts
-#EXTINF:-1,beIN SPORTS 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/14981.ts
-#EXTINF:-1,beIN SPORTS 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18278.ts
-#EXTINF:-1,beIN SPORTS 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/14982.ts
-#EXTINF:-1,beIN SPORTS 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/14983.ts
-#EXTINF:-1,beIN SPORTS 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18279.ts
-#EXTINF:-1,beIN SPORTS 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/14984.ts
-#EXTINF:-1,beIN SPORTS 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/14985.ts
-#EXTINF:-1,beIN SPORTS 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18280.ts
-#EXTINF:-1,beIN SPORTS 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/14986.ts
-#EXTINF:-1,beIN SPORTS 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/14987.ts
-#EXTINF:-1,beIN SPORTS 5 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18281.ts
-#EXTINF:-1,beIN SPORTS 5 HD ARB
-http://clientportal.link:80/live/Petko/123456/14988.ts
-#EXTINF:-1,beIN SPORTS 5 SD ARB
-http://clientportal.link:80/live/Petko/123456/14989.ts
-#EXTINF:-1,beIN SPORTS 6 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18282.ts
-#EXTINF:-1,beIN SPORTS 6 HD ARB
-http://clientportal.link:80/live/Petko/123456/14990.ts
-#EXTINF:-1,beIN SPORTS 6 SD ARB
-http://clientportal.link:80/live/Petko/123456/14991.ts
-#EXTINF:-1,beIN SPORTS 7 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18283.ts
-#EXTINF:-1,beIN SPORTS 7 HD ARB
-http://clientportal.link:80/live/Petko/123456/14992.ts
-#EXTINF:-1,beIN SPORTS 7 SD ARB
-http://clientportal.link:80/live/Petko/123456/14993.ts
-#EXTINF:-1,beIN SPORTS 8 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18284.ts
-#EXTINF:-1,beIN SPORTS 8 HD ARB
-http://clientportal.link:80/live/Petko/123456/14994.ts
-#EXTINF:-1,beIN SPORTS 8 SD ARB
-http://clientportal.link:80/live/Petko/123456/14995.ts
-#EXTINF:-1,beIN SPORTS 9 HD ARB
-http://clientportal.link:80/live/Petko/123456/14996.ts
-#EXTINF:-1,beIN SPORTS 9 SD ARB
-http://clientportal.link:80/live/Petko/123456/14997.ts
-#EXTINF:-1,beIN SPORTS 10 HD ARB
-http://clientportal.link:80/live/Petko/123456/14998.ts
-#EXTINF:-1,beIN SPORTS 10 SD ARB
-http://clientportal.link:80/live/Petko/123456/14999.ts
-#EXTINF:-1,beIN SPORTS 11 FHD ARB
-http://clientportal.link:80/live/Petko/123456/15000.ts
-#EXTINF:-1,beIN SPORTS 12 SD ARB
-http://clientportal.link:80/live/Petko/123456/15001.ts
-#EXTINF:-1,beIN SPORTS 1 HD FR
-http://clientportal.link:80/live/Petko/123456/14977.ts
-#EXTINF:-1,beIN SPORTS 1 FR
-http://clientportal.link:80/live/Petko/123456/5522.ts
-#EXTINF:-1,beIN SPORTS 2 FHD FR
-http://clientportal.link:80/live/Petko/123456/14978.ts
-#EXTINF:-1,beIN SPORTS 2 HD FR
-http://clientportal.link:80/live/Petko/123456/15637.ts
-#EXTINF:-1,beIN SPORTS 3 FHD FR
-http://clientportal.link:80/live/Petko/123456/4477.ts
-#EXTINF:-1,beIN SPORTS 3 HD FR
-http://clientportal.link:80/live/Petko/123456/14979.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD FR
-http://clientportal.link:80/live/Petko/123456/18218.ts
-#EXTINF:-1,beIN SPORTS MAX 5 FHD FR
-http://clientportal.link:80/live/Petko/123456/18219.ts
-#EXTINF:-1,beIN SPORTS MAX 6 FHD FR
-http://clientportal.link:80/live/Petko/123456/18220.ts
-#EXTINF:-1,beIN SPORTS MAX 7 FHD FR
-http://clientportal.link:80/live/Petko/123456/18221.ts
-#EXTINF:-1,beIN SPORTS MAX 8 FHD FR
-http://clientportal.link:80/live/Petko/123456/18222.ts
-#EXTINF:-1,beIN SPORTS MAX 10 FHD FR
-http://clientportal.link:80/live/Petko/123456/18224.ts
-#EXTINF:-1,beIN SPORTS MAX 9 FHD FR
-http://clientportal.link:80/live/Petko/123456/18223.ts
-#EXTINF:-1,beIN SPORTS 1 HD TR
-http://clientportal.link:80/live/Petko/123456/15719.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/15943.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/6413.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/6414.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/15721.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/15722.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/13665.ts
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://clientportal.link:80/live/Petko/123456/17739.ts
-#EXTINF:-1,beIN SPORTS 2 FHD TR
-http://clientportal.link:80/live/Petko/123456/17740.ts
-#EXTINF:-1,beIN SPORTS 3 FHD TR
-http://clientportal.link:80/live/Petko/123456/17741.ts
-#EXTINF:-1,beIN SPORTS 4 FHD TR
-http://clientportal.link:80/live/Petko/123456/19038.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD  TR
-http://clientportal.link:80/live/Petko/123456/15723.ts
-#EXTINF:-1,beIN SPORTS HABER HD TR
-http://clientportal.link:80/live/Petko/123456/17896.ts
-#EXTINF:-1,beIN SPORTS ES
-http://clientportal.link:80/live/Petko/123456/9407.ts
-#EXTINF:-1,beIN SPORTS HD ES
-http://clientportal.link:80/live/Petko/123456/12729.ts
-#EXTINF:-1,beIN SPORTS Laliga HD ES
-http://clientportal.link:80/live/Petko/123456/12719.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD ES
-http://clientportal.link:80/live/Petko/123456/13662.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD ES
-http://clientportal.link:80/live/Petko/123456/13663.ts
-#EXTINF:-1,beIN SPORTS US
-http://clientportal.link:80/live/Petko/123456/9013.ts
-#EXTINF:-1,beIN SPORTS HD US
-http://clientportal.link:80/live/Petko/123456/15002.ts
-#EXTINF:-1,beIN SPORTS 1 max  [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21945.ts
-#EXTINF:-1,beIN SPORTS 2 max [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21946.ts
-#EXTINF:-1,beIN SPORTS 3 max HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21947.ts
-#EXTINF:-1,Sport Klub 1 HD HR
-http://clientportal.link:80/live/Petko/123456/17252.ts
-#EXTINF:-1,Sport Klub 2 FHD HR
-http://clientportal.link:80/live/Petko/123456/17254.ts
-#EXTINF:-1,Sport Klub 4 HR
-http://clientportal.link:80/live/Petko/123456/17249.ts
-#EXTINF:-1,Sport Klub 5 HR
-http://clientportal.link:80/live/Petko/123456/17250.ts
-#EXTINF:-1,Sport Klub 6 HR
-http://clientportal.link:80/live/Petko/123456/17251.ts
-#EXTINF:-1,Eurosport 1 RS
-http://clientportal.link:80/live/Petko/123456/1443.ts
-#EXTINF:-1,Eurosport 2 RS
-http://clientportal.link:80/live/Petko/123456/1444.ts
-#EXTINF:-1,Arena Sport 2 FHD HR
-http://clientportal.link:80/live/Petko/123456/17914.ts
-#EXTINF:-1,Arena Sport 3 HD HR
-http://clientportal.link:80/live/Petko/123456/17916.ts
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://clientportal.link:80/live/Petko/123456/17915.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://clientportal.link:80/live/Petko/123456/1436.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://clientportal.link:80/live/Petko/123456/1437.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://clientportal.link:80/live/Petko/123456/1438.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://clientportal.link:80/live/Petko/123456/1439.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://clientportal.link:80/live/Petko/123456/13827.ts
-#EXTINF:-1,Arena Sport 6 HD HR
-http://clientportal.link:80/live/Petko/123456/13828.ts
-#EXTINF:-1,Arena Sport 1 RS
-http://clientportal.link:80/live/Petko/123456/3182.ts
-#EXTINF:-1,Arena Sport 2 HD RS
-http://clientportal.link:80/live/Petko/123456/3183.ts
-#EXTINF:-1,Arena Sport 3 RS
-http://clientportal.link:80/live/Petko/123456/3184.ts
-#EXTINF:-1,Arena Sport 4 RS
-http://clientportal.link:80/live/Petko/123456/3185.ts
-#EXTINF:-1,Arena Sport 5 RS
-http://clientportal.link:80/live/Petko/123456/3186.ts
-#EXTINF:-1,Sport Klub 1 RS
-http://clientportal.link:80/live/Petko/123456/13832.ts
-#EXTINF:-1,Sport Klub 2 HR
-http://clientportal.link:80/live/Petko/123456/13833.ts
-#EXTINF:-1,Sport Klub 3 HR
-http://clientportal.link:80/live/Petko/123456/13834.ts
-#EXTINF:-1,Sport Klub 4 RS
-http://clientportal.link:80/live/Petko/123456/13829.ts
-#EXTINF:-1,Sport Klub 5 RS
-http://clientportal.link:80/live/Petko/123456/13830.ts
-#EXTINF:-1,Sport Klub 6 RS
-http://clientportal.link:80/live/Petko/123456/13831.ts
-#EXTINF:-1,Sport Klub 1 HD RS
-http://clientportal.link:80/live/Petko/123456/1440.ts
-#EXTINF:-1,Sport Klub 2 RS
-http://clientportal.link:80/live/Petko/123456/1441.ts
-#EXTINF:-1,Sport Klub 3 HD RS
-http://clientportal.link:80/live/Petko/123456/1442.ts
-#EXTINF:-1,Canal+ Sport FHD FR
-http://clientportal.link:80/live/Petko/123456/2210.ts
-#EXTINF:-1,Canal+ Sport HD FR
-http://clientportal.link:80/live/Petko/123456/13149.ts
-#EXTINF:-1,Equidia Live HD FR
-http://clientportal.link:80/live/Petko/123456/13181.ts
-#EXTINF:-1,EuroNews English HD FR
-http://clientportal.link:80/live/Petko/123456/17301.ts
-#EXTINF:-1,Euronews FR
-http://clientportal.link:80/live/Petko/123456/3751.ts
-#EXTINF:-1,Eurosport 1 HD FR
-http://clientportal.link:80/live/Petko/123456/2013.ts
-#EXTINF:-1,Eurosport 2 HD FR
-http://clientportal.link:80/live/Petko/123456/7572.ts
-#EXTINF:-1,Extreme Sports Channel FR
-http://clientportal.link:80/live/Petko/123456/21904.ts
-#EXTINF:-1,Foot+ 24/24 HD FR
-http://clientportal.link:80/live/Petko/123456/17245.ts
-#EXTINF:-1,Infosport+ HD FR
-http://clientportal.link:80/live/Petko/123456/7571.ts
-#EXTINF:-1,L'Equipe 21 FR
-http://clientportal.link:80/live/Petko/123456/4468.ts
-#EXTINF:-1,SFR Sport 1 HD FR
-http://clientportal.link:80/live/Petko/123456/13182.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://clientportal.link:80/live/Petko/123456/2251.ts
-#EXTINF:-1,SFR Sport 3 HD FR
-http://clientportal.link:80/live/Petko/123456/21522.ts
-#EXTINF:-1,SFR Sport 4 HD FR
-http://clientportal.link:80/live/Petko/123456/13148.ts
-#EXTINF:-1,SFR Sport 5 HD FR
-http://clientportal.link:80/live/Petko/123456/13151.ts
-#EXTINF:-1,OTE Sport 1 GR
-http://clientportal.link:80/live/Petko/123456/18240.ts
-#EXTINF:-1,OTE Sport 2 GR
-http://clientportal.link:80/live/Petko/123456/18241.ts
-#EXTINF:-1,OTE Sport 3 GR
-http://clientportal.link:80/live/Petko/123456/18242.ts
-#EXTINF:-1,beIN SPORTS 1 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21934.ts
-#EXTINF:-1,beIN SPORTS 1 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21916.ts
-#EXTINF:-1,beIN SPORTS 1 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21924.ts
-#EXTINF:-1,beIN SPORTS 2 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21917.ts
-#EXTINF:-1,beIN SPORTS 2 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21925.ts
-#EXTINF:-1,beIN SPORTS 2 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21935.ts
-#EXTINF:-1,beIN SPORTS 3 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21918.ts
-#EXTINF:-1,beIN SPORTS 3 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21926.ts
-#EXTINF:-1,beIN SPORTS 3 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21936.ts
-#EXTINF:-1,beIN SPORTS 4 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21919.ts
-#EXTINF:-1,beIN SPORTS 4 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21927.ts
-#EXTINF:-1,beIN SPORTS 4 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21937.ts
-#EXTINF:-1,beIN SPORTS 5 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21920.ts
-#EXTINF:-1,beIN SPORTS 5 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21928.ts
-#EXTINF:-1,beIN SPORTS 5 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21938.ts
-#EXTINF:-1,beIN SPORTS 6 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21921.ts
-#EXTINF:-1,beIN SPORTS 6 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21929.ts
-#EXTINF:-1,beIN SPORTS 6 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21939.ts
-#EXTINF:-1,beIN SPORTS 7 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21922.ts
-#EXTINF:-1,beIN SPORTS 7 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21930.ts
-#EXTINF:-1,beIN SPORTS 7 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21940.ts
-#EXTINF:-1,beIN SPORTS 8 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21923.ts
-#EXTINF:-1,beIN SPORTS 8 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21931.ts
-#EXTINF:-1,beIN SPORTS 8 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21941.ts
-#EXTINF:-1,beIN SPORTS 9 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21932.ts
-#EXTINF:-1,beIN SPORTS 9 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21942.ts
-#EXTINF:-1,beIN SPORTS 10 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21933.ts
-#EXTINF:-1,beIN SPORTS 10 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21943.ts
-#EXTINF:-1,beIN SPORTS 12 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21944.ts
-#EXTINF:-1,Algérie 3 (Thalitha TV) DZ
-http://clientportal.link:80/live/Petko/123456/21950.ts
-
-#EXTINF:-1,AL: AL K SPORT1
-http://193.200.164.171:6969/live/robert/robert123/7369.ts
-#EXTINF:-1,AL: AL K SPORT2
-http://193.200.164.171:6969/live/robert/robert123/7370.ts
-#EXTINF:-1,AL: AL K SPORT3
-http://193.200.164.171:6969/live/robert/robert123/7371.ts
-#EXTINF:-1,AL: AL K SPORT4
-http://193.200.164.171:6969/live/robert/robert123/7372.ts
-#EXTINF:-1,AL: Super Sport Kosovo 2 HD
-http://193.200.164.171:6969/live/robert/robert123/2127.ts
-#EXTINF:-1,AL: Super Sport Kosovo 1 HD
-http://193.200.164.171:6969/live/robert/robert123/2128.ts
-#EXTINF:-1,AL: Super Sport 2
-http://193.200.164.171:6969/live/robert/robert123/2129.ts
-#EXTINF:-1,AL: Super Sport 1
-http://193.200.164.171:6969/live/robert/robert123/2130.ts
-#EXTINF:-1,AL: Arena Sport 3 FHD Serbian
-http://193.200.164.171:6969/live/robert/robert123/18207.ts
-#EXTINF:-1,AL: Arena Sport 3 HR FHD (Ex-Yu)
-http://193.200.164.171:6969/live/robert/robert123/18206.ts
-#EXTINF:-1,AL: Arena Sport 4 HR FHD (Ex-Yu)
-http://193.200.164.171:6969/live/robert/robert123/18205.ts
-#EXTINF:-1,AL: Arena Sport 5 FHD Croatia
-http://193.200.164.171:6969/live/robert/robert123/18204.ts
-#EXTINF:-1,AL: Arena Sport 5 HR FHD (Ex-Yu)
-http://193.200.164.171:6969/live/robert/robert123/18203.ts
-#EXTINF:-1,AL: Super Sport 4 HD
-http://193.200.164.171:6969/live/robert/robert123/340.ts
-#EXTINF:-1,AL: Super Sport 3 HD
-http://193.200.164.171:6969/live/robert/robert123/339.ts
-#EXTINF:-1,Al:Super Sport 2 HD
-http://193.200.164.171:6969/live/robert/robert123/338.ts
-#EXTINF:-1,AL: Super Sport 1 HD
-http://193.200.164.171:6969/live/robert/robert123/337.ts
-#EXTINF:-1,AR: AD Sports 6 HD
-http://193.200.164.171:6969/live/robert/robert123/4277.ts
-#EXTINF:-1,AR: AD Sports 5 HD
-http://193.200.164.171:6969/live/robert/robert123/4278.ts
-#EXTINF:-1,AR: AD Sports 4 HD
-http://193.200.164.171:6969/live/robert/robert123/4279.ts
-#EXTINF:-1,AR: AD Sports 3 HD
-http://193.200.164.171:6969/live/robert/robert123/4280.ts
-#EXTINF:-1,AR : OSN OSN SPORT FIGHTNETWORK
-http://193.200.164.171:6969/live/robert/robert123/4363.ts
-#EXTINF:-1,AR: ON Sport HD
-http://193.200.164.171:6969/live/robert/robert123/7434.ts
-#EXTINF:-1,AR: OSN Sports 1 HD
-http://193.200.164.171:6969/live/robert/robert123/4645.ts
-#EXTINF:-1,AR: OSN Sports 2 HD
-http://193.200.164.171:6969/live/robert/robert123/4644.ts
-#EXTINF:-1,AR: OSN Sports 3 HD
-http://193.200.164.171:6969/live/robert/robert123/4643.ts
-#EXTINF:-1,AR: OSN Sports 4 HD
-http://193.200.164.171:6969/live/robert/robert123/4642.ts
-#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 1 HD
-http://193.200.164.171:6969/live/robert/robert123/6030.ts
-#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 2 HD
-http://193.200.164.171:6969/live/robert/robert123/6031.ts
-#EXTINF:-1,VIP AR:OSN Abu Dhabi Sports 3 HD
-http://193.200.164.171:6969/live/robert/robert123/6032.ts
-#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 4 HD
-http://193.200.164.171:6969/live/robert/robert123/6033.ts
-#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 5 HD
-http://193.200.164.171:6969/live/robert/robert123/6034.ts
-#EXTINF:-1,VIP AR: OSN Abu Dhabi Sports 6 HD
-http://193.200.164.171:6969/live/robert/robert123/6035.ts
-#EXTINF:-1,AR: Bein sport 1 FHD
-http://193.200.164.171:6969/live/robert/robert123/18065.ts
-#EXTINF:-1,AR: Bein sport 10 FHD
-http://193.200.164.171:6969/live/robert/robert123/18064.ts
-#EXTINF:-1,AR: Bein sport 11 FHD
-http://193.200.164.171:6969/live/robert/robert123/18063.ts
-#EXTINF:-1,AR: Bein sport 12 FHD
-http://193.200.164.171:6969/live/robert/robert123/18062.ts
-#EXTINF:-1,AR: Bein sport 13 FHD
-http://193.200.164.171:6969/live/robert/robert123/18061.ts
-#EXTINF:-1,AR: Bein sport 2 FHD
-http://193.200.164.171:6969/live/robert/robert123/18060.ts
-#EXTINF:-1,AR: Bein sport 3 FHD
-http://193.200.164.171:6969/live/robert/robert123/18059.ts
-#EXTINF:-1,AR: Bein sport 4 FHD
-http://193.200.164.171:6969/live/robert/robert123/18058.ts
-#EXTINF:-1,AR: Bein sport 5 FHD
-http://193.200.164.171:6969/live/robert/robert123/18057.ts
-#EXTINF:-1,AR: Bein sport 6 FHD
-http://193.200.164.171:6969/live/robert/robert123/18056.ts
-#EXTINF:-1,AR: Bein sport 7 FHD
-http://193.200.164.171:6969/live/robert/robert123/18055.ts
-#EXTINF:-1,AR: Bein sport 8 FHD
-http://193.200.164.171:6969/live/robert/robert123/18054.ts
-#EXTINF:-1,AR: Bein sport 9 FHD
-http://193.200.164.171:6969/live/robert/robert123/18053.ts
-#EXTINF:-1,AR: Beout Q Sport 1 HD
-http://193.200.164.171:6969/live/robert/robert123/18907.ts
-#EXTINF:-1,AR: Beout Q Sport 2 HD
-http://193.200.164.171:6969/live/robert/robert123/18906.ts
-#EXTINF:-1,AR: Beout Q Sport 3 HD
-http://193.200.164.171:6969/live/robert/robert123/18905.ts
-#EXTINF:-1,AR: Beout Q Sport 4 HD
-http://193.200.164.171:6969/live/robert/robert123/18904.ts
-#EXTINF:-1,AR: Beout Q Sport 5 HD
-http://193.200.164.171:6969/live/robert/robert123/18903.ts
-#EXTINF:-1,VIP AR: OSN FX HD
-http://193.200.164.171:6969/live/robert/robert123/6172.ts
-#EXTINF:-1,VIP AR: OSN Sports 1
-http://193.200.164.171:6969/live/robert/robert123/6005.ts
-#EXTINF:-1,VIP AR: OSN Sports 2
-http://193.200.164.171:6969/live/robert/robert123/6006.ts
-#EXTINF:-1,VIP AR: OSN Sports 3
-http://193.200.164.171:6969/live/robert/robert123/6007.ts
-#EXTINF:-1,VIP AR: OSN Sports 4
-http://193.200.164.171:6969/live/robert/robert123/6008.ts
-#EXTINF:-1,VIP AR: OSN Sports Cricket HD
-http://193.200.164.171:6969/live/robert/robert123/6009.ts
-#EXTINF:-1,BE: VOO SPORT 1 HD
-http://193.200.164.171:6969/live/robert/robert123/9188.ts
-#EXTINF:-1,BE: VOOsport 2
-http://193.200.164.171:6969/live/robert/robert123/9187.ts
-#EXTINF:-1,BE: VOOsport 4
-http://193.200.164.171:6969/live/robert/robert123/9186.ts
-#EXTINF:-1,BE: VOO SPORT WORLD 1
-http://193.200.164.171:6969/live/robert/robert123/17206.ts
-#EXTINF:-1,BE: VOO SPORT WORLD 2
-http://193.200.164.171:6969/live/robert/robert123/17212.ts
-#EXTINF:-1,BR: Sport TV
-http://193.200.164.171:6969/live/robert/robert123/7331.ts
-#EXTINF:-1,BR: Sport TV2
-http://193.200.164.171:6969/live/robert/robert123/7330.ts
-#EXTINF:-1,BR: Sport TV3
-http://193.200.164.171:6969/live/robert/robert123/7329.ts
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://193.200.164.171:6969/live/robert/robert123/3605.ts
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://193.200.164.171:6969/live/robert/robert123/3604.ts
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://193.200.164.171:6969/live/robert/robert123/3603.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://193.200.164.171:6969/live/robert/robert123/3602.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://193.200.164.171:6969/live/robert/robert123/3601.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://193.200.164.171:6969/live/robert/robert123/3600.ts
-#EXTINF:-1,FR: INFOSPORT
-http://193.200.164.171:6969/live/robert/robert123/4978.ts
-#EXTINF:-1,FR: L'EQUIPE 21
-http://193.200.164.171:6969/live/robert/robert123/4977.ts
-#EXTINF:-1,FR: beINS PORTS 2HD
-http://193.200.164.171:6969/live/robert/robert123/445.ts
-#EXTINF:-1,FR: beIN SPORTS1 HD
-http://193.200.164.171:6969/live/robert/robert123/444.ts
-#EXTINF:-1,FR: beIN SPORTS 3HD
-http://193.200.164.171:6969/live/robert/robert123/446.ts
-#EXTINF:-1,FR: SFR: Sport 1
-http://193.200.164.171:6969/live/robert/robert123/3715.ts
-#EXTINF:-1,FR: SFR: Sport 2
-http://193.200.164.171:6969/live/robert/robert123/3713.ts
-#EXTINF:-1,FR: SFR: Sport 3
-http://193.200.164.171:6969/live/robert/robert123/3714.ts
-#EXTINF:-1,FR: BFM SPORT
-http://193.200.164.171:6969/live/robert/robert123/7848.ts
-#EXTINF:-1,FR: GOLF+ HD
-http://193.200.164.171:6969/live/robert/robert123/8093.ts
-#EXTINF:-1,FR: EQUIDIA LIFE
-http://193.200.164.171:6969/live/robert/robert123/8238.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://193.200.164.171:6969/live/robert/robert123/152.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://193.200.164.171:6969/live/robert/robert123/153.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://193.200.164.171:6969/live/robert/robert123/154.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://193.200.164.171:6969/live/robert/robert123/155.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://193.200.164.171:6969/live/robert/robert123/156.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://193.200.164.171:6969/live/robert/robert123/157.ts
-#EXTINF:-1,NL: Eurosport 1 FHD 1080
-http://193.200.164.171:6969/live/robert/robert123/5654.ts
-#EXTINF:-1,NL: Eurosport 2 HD
-http://193.200.164.171:6969/live/robert/robert123/5655.ts
-#EXTINF:-1,NL: FOX Sports 1 FHD 1080
-http://193.200.164.171:6969/live/robert/robert123/5644.ts
-#EXTINF:-1,NL: FOX Sports 2 HD
-http://193.200.164.171:6969/live/robert/robert123/5645.ts
+#EXTINF:-1,CA: ABC HD
+http://195.181.162.108:8880/live/peter/peter/6146.ts
+#EXTINF:-1,CA: AMC HD
+http://195.181.162.108:8880/live/peter/peter/6144.ts
+#EXTINF:-1,CA: BRAVO HD
+http://195.181.162.108:8880/live/peter/peter/6142.ts
+#EXTINF:-1,CA: CBC ATLANTIC HD
+http://195.181.162.108:8880/live/peter/peter/6141.ts
+#EXTINF:-1,CA: CBC HD
+http://195.181.162.108:8880/live/peter/peter/6140.ts
+#EXTINF:-1,CA: CBS EAST
+http://195.181.162.108:8880/live/peter/peter/6138.ts
+#EXTINF:-1,CA: CITY TORONTO
+http://195.181.162.108:8880/live/peter/peter/6136.ts
+#EXTINF:-1,CA: CP24
+http://195.181.162.108:8880/live/peter/peter/6099.ts
+#EXTINF:-1,CA: CNN HD
+http://195.181.162.108:8880/live/peter/peter/6135.ts
+#EXTINF:-1,CA: COMEDY HD
+http://195.181.162.108:8880/live/peter/peter/6134.ts
+#EXTINF:-1,CA: CTV TORONTO
+http://195.181.162.108:8880/live/peter/peter/6129.ts
+#EXTINF:-1,CA: CTV NEWS HD
+http://195.181.162.108:8880/live/peter/peter/6128.ts
+#EXTINF:-1,CA: DISNEY JR HD
+http://195.181.162.108:8880/live/peter/peter/6127.ts
+#EXTINF:-1,CA: FOOD NETWORK HD
+http://195.181.162.108:8880/live/peter/peter/6123.ts
+#EXTINF:-1,CA: FOX 25
+http://195.181.162.108:8880/live/peter/peter/6122.ts
+#EXTINF:-1,CA: FIGHT NETWORK
+http://195.181.162.108:8880/live/peter/peter/6121.ts
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://195.181.162.108:8880/live/peter/peter/6119.ts
+#EXTINF:-1,CA: GSN HD
+http://195.181.162.108:8880/live/peter/peter/6118.ts
+#EXTINF:-1,CA: HBO 2 HD
+http://195.181.162.108:8880/live/peter/peter/6117.ts
+#EXTINF:-1,CA: HBO HD
+http://195.181.162.108:8880/live/peter/peter/6116.ts
+#EXTINF:-1,CA: HGTV HD
+http://195.181.162.108:8880/live/peter/peter/6115.ts
+#EXTINF:-1,CA: HISTORY HD
+http://195.181.162.108:8880/live/peter/peter/6114.ts
+#EXTINF:-1,CA: NAT GEO WILD HD
+http://195.181.162.108:8880/live/peter/peter/6110.ts
+#EXTINF:-1,CA: NBC
+http://195.181.162.108:8880/live/peter/peter/6109.ts
+#EXTINF:-1,CA: OWN HD
+http://195.181.162.108:8880/live/peter/peter/6108.ts
+#EXTINF:-1,CA: SLICE HD
+http://195.181.162.108:8880/live/peter/peter/6104.ts
+#EXTINF:-1,CA: SPACE HD
+http://195.181.162.108:8880/live/peter/peter/6103.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO HD
+http://195.181.162.108:8880/live/peter/peter/6101.ts
+#EXTINF:-1,CA: SPORTSNET WORLD HD
+http://195.181.162.108:8880/live/peter/peter/6098.ts
+#EXTINF:-1,CA: TLC HD
+http://195.181.162.108:8880/live/peter/peter/6097.ts
+#EXTINF:-1,CA: TSN 1 FHD
+http://195.181.162.108:8880/live/peter/peter/6096.ts
+#EXTINF:-1,CA: TSN 2 HD
+http://195.181.162.108:8880/live/peter/peter/4388.ts
+#EXTINF:-1,CA: TSN 3 FHD
+http://195.181.162.108:8880/live/peter/peter/6095.ts
+#EXTINF:-1,CA: TSN 4 FHD
+http://195.181.162.108:8880/live/peter/peter/4385.ts
+#EXTINF:-1,CA: TSN 5 FHD
+http://195.181.162.108:8880/live/peter/peter/4384.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport 1 --" tvg-logo="" group-title="-----French-----",FR: Bein Sport 1 --
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 sd --" tvg-logo="" group-title="-----French-----",FR: Bein Sports 1 sd --
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport 2 --" tvg-logo="" group-title="-----French-----",FR: Bein Sport 2 -
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2 sd --" tvg-logo="" group-title="-----French-----",FR: Bein Sports 2 sd --
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport 3 --" tvg-logo="" group-title="-----French-----",FR: Bein Sport 3 -
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 3 sd --" tvg-logo="" group-title="-----French-----",FR: Bein Sports 3 sd --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport Max 1 HD --" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport Max 1 HD --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport Max 2 HD --" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport Max 2 HD --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport 1 HD --" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport 1 HD --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport 2 HD -" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport 2 HD -
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport 3 HD --" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport 3 HD --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport 4 -" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport 4 -
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein sport 5 -" tvg-logo="" group-title="-----Arabic-----",AR: Bein sport 5 -
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sports HD --" tvg-logo="" group-title="-----Arabic-----",AR: AD Sports HD --
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sports 2 HD --" tvg-logo="" group-title="-----Arabic-----",AR: AD Sports 2 HD --w
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sports 1 -" tvg-logo="" group-title="-----Sports-----",BT Sports 1 -
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 -" tvg-logo="" group-title="-----Sports-----",BT Sport 2 -
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 -" tvg-logo="" group-title="-----Sports-----",BT Sport 3 -
+#EXTINF:-1 tvg-ID="" tvg-name="sky Sport Football --" tvg-logo="" group-title="-----Sports-----",sky Sport Football --
+#EXTINF:-1 tvg-ID="" tvg-name="SKY Sport Premier League -" tvg-logo="" group-title="-----Sports-----",SKY Sport Premier League -
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport cricket -" tvg-logo="" group-title="-----Sports-----",Sky Sport cricket -
