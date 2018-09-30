@@ -1,53 +1,194 @@
 #EXTM3U
-EXTINF:-1,BN SPORTS 1 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9131.ts
-EXTINF:-1,BN SPORTS 1 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9133.ts
-EXTINF:-1,BN SPORTS 1 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28265.ts
-EXTINF:-1,BN SPORTS 2 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9134.ts
-EXTINF:-1,BN SPORTS 2 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9135.ts
-EXTINF:-1,BN SPORTS 2 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28266.ts
-EXTINF:-1,BN SPORTS 3 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9136.ts
-EXTINF:-1,BN SPORTS 3 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9137.ts
-EXTINF:-1,BN SPORTS 3 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28267.ts
-EXTINF:-1,BN SPORTS 4 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9138.ts
-EXTINF:-1,BN SPORTS 4 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9139.ts
-EXTINF:-1,BN SPORTS 4 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28268.ts
-EXTINF:-1,BN SPORTS 5 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9140.ts
-EXTINF:-1,BN SPORTS 5 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9141.ts
-EXTINF:-1,BN SPORTS 5 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28269.ts
-EXTINF:-1,BN SPORTS 6 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9142.ts
-EXTINF:-1,BN SPORTS 6 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9143.ts
-EXTINF:-1,BN SPORTS 6 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28270.ts
-EXTINF:-1,BN SPORTS 7 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9144.ts
-EXTINF:-1,BN SPORTS 7 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9145.ts
-EXTINF:-1,BN SPORTS 7 FULL HD
-http://151.80.23.70:25443/live/kamal/kamal1234/28271.ts
-EXTINF:-1,BN SPORTS 8 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9146.ts
-EXTINF:-1,BN SPORTS 8 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9147.ts
-EXTINF:-1,BN SPORTS 9 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9148.ts
-EXTINF:-1,BN SPORTS 9 HD |Backup|
-http://151.80.23.70:25443/live/kamal/kamal1234/9149.ts
-EXTINF:-1,BN SPORTS 10 HD
-http://151.80.23.70:25443/live/kamal/kamal1234/9150.ts
+EXTINF:-1,Us- NEWS 12
+http://193.200.164.138:8080/live/ali03/ali03/10218.ts
+EXTINF:-1,Us- ABC US
+http://193.200.164.138:8080/live/ali03/ali03/9809.ts
+EXTINF:-1,Us- Animal Planet HD
+http://193.200.164.138:8080/live/ali03/ali03/9808.ts
+EXTINF:-1,Us- BBC AMERICA HD
+http://193.200.164.138:8080/live/ali03/ali03/9807.ts
+EXTINF:-1,Us- BIG TEN
+http://193.200.164.138:8080/live/ali03/ali03/9806.ts
+EXTINF:-1,Us- Bloomberg US
+http://193.200.164.138:8080/live/ali03/ali03/9805.ts
+EXTINF:-1,Us- Bravo HD
+http://193.200.164.138:8080/live/ali03/ali03/9804.ts
+EXTINF:-1,Us- CBS Sport HD
+http://193.200.164.138:8080/live/ali03/ali03/9802.ts
+EXTINF:-1,Us- CBS US
+http://193.200.164.138:8080/live/ali03/ali03/9801.ts
+EXTINF:-1,Us- CNBC US
+http://193.200.164.138:8080/live/ali03/ali03/9798.ts
+EXTINF:-1,Us- CNN US HD
+http://193.200.164.138:8080/live/ali03/ali03/9797.ts
+EXTINF:-1,Us- Comedy Central HD
+http://193.200.164.138:8080/live/ali03/ali03/9796.ts
+EXTINF:-1,Us- Cooking channel HD
+http://193.200.164.138:8080/live/ali03/ali03/9795.ts
+EXTINF:-1,Us- Discovery Channel US HD
+http://193.200.164.138:8080/live/ali03/ali03/9794.ts
+EXTINF:-1,Us- DISCOVERY FAMILY
+http://193.200.164.138:8080/live/ali03/ali03/9793.ts
+EXTINF:-1,Us- Discovery Investigation
+http://193.200.164.138:8080/live/ali03/ali03/9792.ts
+EXTINF:-1,Us- Discovery Science US HD
+http://193.200.164.138:8080/live/ali03/ali03/9791.ts
+EXTINF:-1,Us- Disney Channel US
+http://193.200.164.138:8080/live/ali03/ali03/9790.ts
+EXTINF:-1,Us- Disney Junior US
+http://193.200.164.138:8080/live/ali03/ali03/9789.ts
+EXTINF:-1,Us- E! Entertainment US
+http://193.200.164.138:8080/live/ali03/ali03/9788.ts
+EXTINF:-1,Us- FOX Business Network
+http://193.200.164.138:8080/live/ali03/ali03/9787.ts
+EXTINF:-1,Us- Fox sport 1 HD
+http://193.200.164.138:8080/live/ali03/ali03/9786.ts
+EXTINF:-1,Us- Fox sport 2 HD
+http://193.200.164.138:8080/live/ali03/ali03/9785.ts
+EXTINF:-1,Us- FX HD
+http://193.200.164.138:8080/live/ali03/ali03/9784.ts
+EXTINF:-1,Us- FYI HD
+http://193.200.164.138:8080/live/ali03/ali03/9783.ts
+EXTINF:-1,Us- GSN HD
+http://193.200.164.138:8080/live/ali03/ali03/9782.ts
+EXTINF:-1,Us- HBO Comedy HD
+http://193.200.164.138:8080/live/ali03/ali03/9781.ts
+EXTINF:-1,Us- HBO Signature
+http://193.200.164.138:8080/live/ali03/ali03/9780.ts
+EXTINF:-1,Us- HBO US HD
+http://193.200.164.138:8080/live/ali03/ali03/9779.ts
+EXTINF:-1,Us- HBO ZONE HD
+http://193.200.164.138:8080/live/ali03/ali03/9778.ts
+EXTINF:-1,Us- HGTV HD
+http://193.200.164.138:8080/live/ali03/ali03/9777.ts
+EXTINF:-1,Us- History
+http://193.200.164.138:8080/live/ali03/ali03/9776.ts
+EXTINF:-1,Us- History HD US
+http://193.200.164.138:8080/live/ali03/ali03/9775.ts
+EXTINF:-1,Us- Life Time HD
+http://193.200.164.138:8080/live/ali03/ali03/9774.ts
+EXTINF:-1,Us- MTV HD US
+http://193.200.164.138:8080/live/ali03/ali03/9773.ts
+EXTINF:-1,Us- Nat Geo Wild HD US
+http://193.200.164.138:8080/live/ali03/ali03/9772.ts
+EXTINF:-1,Us- NatGeo HD USA
+http://193.200.164.138:8080/live/ali03/ali03/9771.ts
+EXTINF:-1,Us- NBA HD
+http://193.200.164.138:8080/live/ali03/ali03/9770.ts
+EXTINF:-1,Us- NBC EAST HD
+http://193.200.164.138:8080/live/ali03/ali03/9769.ts
+EXTINF:-1,Us- NBCSN HD
+http://193.200.164.138:8080/live/ali03/ali03/9768.ts
+EXTINF:-1,Us- Nick Junior US
+http://193.200.164.138:8080/live/ali03/ali03/9767.ts
+EXTINF:-1,Us- Nick Toons US
+http://193.200.164.138:8080/live/ali03/ali03/9766.ts
+EXTINF:-1,Us- OWN HD
+http://193.200.164.138:8080/live/ali03/ali03/9765.ts
+EXTINF:-1,Us- SEC NETWORK HD
+http://193.200.164.138:8080/live/ali03/ali03/9764.ts
+EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://193.200.164.138:8080/live/ali03/ali03/9763.ts
+EXTINF:-1,Us- SLICE HD
+http://193.200.164.138:8080/live/ali03/ali03/9762.ts
+EXTINF:-1,Us- Space US
+http://193.200.164.138:8080/live/ali03/ali03/9761.ts
+EXTINF:-1,Us- Syfy HD
+http://193.200.164.138:8080/live/ali03/ali03/9758.ts
+EXTINF:-1,Us- SyFy HD USA
+http://193.200.164.138:8080/live/ali03/ali03/9757.ts
+EXTINF:-1,Us- TBS USA
+http://193.200.164.138:8080/live/ali03/ali03/9756.ts
+EXTINF:-1,Us- TLC HD
+http://193.200.164.138:8080/live/ali03/ali03/9755.ts
+EXTINF:-1,Us- TNT US
+http://193.200.164.138:8080/live/ali03/ali03/9754.ts
+EXTINF:-1,Us- TRU TV HD
+http://193.200.164.138:8080/live/ali03/ali03/9753.ts
+EXTINF:-1,Us- TV Land HD
+http://193.200.164.138:8080/live/ali03/ali03/9752.ts
+EXTINF:-1,Us- Velocity HD
+http://193.200.164.138:8080/live/ali03/ali03/9751.ts
+EXTINF:-1,Us- VH1 HD US
+http://193.200.164.138:8080/live/ali03/ali03/9750.ts
+EXTINF:-1,Us- Viceland TV
+http://193.200.164.138:8080/live/ali03/ali03/9749.ts
+EXTINF:-1,Us- WE HD
+http://193.200.164.138:8080/live/ali03/ali03/9748.ts
+EXTINF:-1,Us- Weather channel
+http://193.200.164.138:8080/live/ali03/ali03/9747.ts
+EXTINF:-1,Us- WWE HD
+http://193.200.164.138:8080/live/ali03/ali03/9746.ts
+#EXTINF:-1,|UK  | 3e
+http://151.80.23.70:25443/live/kamal/kamal1234/31029.ts
+EXTINF:-1,|UK  | 4Seven
+http://151.80.23.70:25443/live/kamal/kamal1234/31100.ts
+EXTINF:-1,|UK  | BBC ALBA
+http://151.80.23.70:25443/live/kamal/kamal1234/31021.ts
+EXTINF:-1,|UK  | BBC EARTH HD
+http://151.80.23.70:25443/live/kamal/kamal1234/31107.ts
+EXTINF:-1,|UK  | BBC ONE HD
+http://151.80.23.70:25443/live/kamal/kamal1234/30898.ts
+EXTINF:-1,|UK  | BBC ONE SD
+http://151.80.23.70:25443/live/kamal/kamal1234/30870.ts
+EXTINF:-1,|UK  | BBC TWO HD
+http://151.80.23.70:25443/live/kamal/kamal1234/31034.ts
+EXTINF:-1,|UK  | BBC Three HD
+http://151.80.23.70:25443/live/kamal/kamal1234/30899.ts
+EXTINF:-1,|UK  | BBC 3 FHD
+http://151.80.23.70:25443/live/kamal/kamal1234/30884.ts
+EXTINF:-1,|UK  | BBC4 HD
+http://151.80.23.70:25443/live/kamal/kamal1234/31035.ts
+EXTINF:-1,|UK  | Channel 4
+http://151.80.23.70:25443/live/kamal/kamal1234/31018.ts
+EXTINF:-1,|UK  | Channel 4 HD
+http://151.80.23.70:25443/live/kamal/kamal1234/31017.ts
+EXTINF:-1,|UK  | CHANNEL 5
+http://151.80.23.70:25443/live/kamal/kamal1234/31016.ts
+EXTINF:-1,|UK  | CHANNEL 5 FHD
+http://151.80.23.70:25443/live/kamal/kamal1234/31015.ts
+EXTINF:-1,|UK  | Channel AKA
+http://151.80.23.70:25443/live/kamal/kamal1234/30861.ts
+EXTINF:-1,|UK  | Citv
+http://151.80.23.70:25443/live/kamal/kamal1234/30895.ts
+EXTINF:-1,|UK  | CNBC Europe
+http://151.80.23.70:25443/live/kamal/kamal1234/31014.ts
+EXTINF:-1,|UK  | CNN
+http://151.80.23.70:25443/live/kamal/kamal1234/30951.ts
+EXTINF:-1,|UK  | CNN FHD
+http://151.80.23.70:25443/live/kamal/kamal1234/30888.ts
+EXTINF:-1,|UK  | Comedy Central
+http://151.80.23.70:25443/live/kamal/kamal1234/30952.ts
+EXTINF:-1,|UK  | Crime & Investigiation
+http://151.80.23.70:25443/live/kamal/kamal1234/31026.ts
+EXTINF:-1,|UK  | Crime investigation  1
+http://151.80.23.70:25443/live/kamal/kamal1234/31048.ts
+EXTINF:-1,|UK  | Dave
+http://151.80.23.70:25443/live/kamal/kamal1234/30953.ts
+EXTINF:-1,|UK  | Drama
+http://151.80.23.70:25443/live/kamal/kamal1234/30920.ts
+EXTINF:-1,|UK  | E!
+http://151.80.23.70:25443/live/kamal/kamal1234/31053.ts
+EXTINF:-1,|UK  | E!    1
+http://151.80.23.70:25443/live/kamal/kamal1234/31054.ts
+EXTINF:-1,|UK  | E4
+http://151.80.23.70:25443/live/kamal/kamal1234/30921.ts
+EXTINF:-1,|UK  | Eden
+http://151.80.23.70:25443/live/kamal/kamal1234/30954.ts
+EXTINF:-1,|UK  | Food Network
+http://151.80.23.70:25443/live/kamal/kamal1234/31059.ts
+EXTINF:-1,|UK  | Food Network  1
+http://151.80.23.70:25443/live/kamal/kamal1234/31060.ts
+EXTINF:-1,|UK  | gold
+http://151.80.23.70:25443/live/kamal/kamal1234/30923.ts
+EXTINF:-1,|UK  | Good Food
+http://151.80.23.70:25443/live/kamal/kamal1234/31061.ts
+EXTINF:-1,|UK  | H2
+http://151.80.23.70:25443/live/kamal/kamal1234/30971.ts
+EXTINF:-1,|UK  | Heart TV
+http://151.80.23.70:25443/live/kamal/kamal1234/30896.ts
+EXTINF:-1,|UK  | Horror Channel
+http://151.80.23.70:25443/live/kamal/kamal1234/30857.ts
+EXTINF:-1,|UK  | Investigation Discovery
+http://151.80.23.70:25443/live/kamal/kamal1234/31013.ts
+EXTINF:-1,|UK  | Irish Tv
